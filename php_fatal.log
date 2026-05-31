@@ -1,0 +1,69 @@
+[06-Feb-2026 16:35:29 UTC] Form submission started at 2026-02-06 16:35:29
+[06-Feb-2026 16:35:29 UTC] Received data - adviser_id: 50, student_id: 103, route1_id: 125
+[06-Feb-2026 16:35:29 UTC] Form rows count: 1
+[06-Feb-2026 16:35:29 UTC] Processing row 0 - chapter: 123, feedback: 123...
+[06-Feb-2026 16:35:29 UTC] Successfully inserted row 0
+[06-Feb-2026 16:35:29 UTC] Form insertion completed. Success: true
+[06-Feb-2026 16:35:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function exec() in /home/u138396369/domains/trs.smcc-riid.com/public_html/v2/adviser/homepage/titleproposal/route1.php:103
+Stack trace:
+#0 /home/u138396369/domains/trs.smcc-riid.com/public_html/v2/adviser/homepage/titleproposal/route1.php(235): sendStudentNotificationEmail()
+#1 {main}
+  thrown in /home/u138396369/domains/trs.smcc-riid.com/public_html/v2/adviser/homepage/titleproposal/route1.php on line 103
+[2026-02-06 16:35:29] Array
+(
+    [type] => 1
+    [message] => Uncaught Error: Call to undefined function exec() in /home/u138396369/domains/trs.smcc-riid.com/public_html/v2/adviser/homepage/titleproposal/route1.php:103
+Stack trace:
+#0 /home/u138396369/domains/trs.smcc-riid.com/public_html/v2/adviser/homepage/titleproposal/route1.php(235): sendStudentNotificationEmail()
+#1 {main}
+  thrown
+    [file] => /home/u138396369/domains/trs.smcc-riid.com/public_html/v2/adviser/homepage/titleproposal/route1.php
+    [line] => 103
+)
+
+[06-Feb-2026 16:35:34 UTC] Form submission started at 2026-02-06 16:35:34
+[06-Feb-2026 16:35:34 UTC] Received data - adviser_id: 50, student_id: 103, route1_id: 125
+[06-Feb-2026 16:35:34 UTC] Form rows count: 1
+[06-Feb-2026 16:35:34 UTC] Processing row 0 - chapter: 123, feedback: 123...
+[06-Feb-2026 16:35:34 UTC] Successfully inserted row 0
+[06-Feb-2026 16:35:34 UTC] Form insertion completed. Success: true
+[06-Feb-2026 16:35:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function exec() in /home/u138396369/domains/trs.smcc-riid.com/public_html/v2/adviser/homepage/titleproposal/route1.php:103
+Stack trace:
+#0 /home/u138396369/domains/trs.smcc-riid.com/public_html/v2/adviser/homepage/titleproposal/route1.php(235): sendStudentNotificationEmail()
+#1 {main}
+  thrown in /home/u138396369/domains/trs.smcc-riid.com/public_html/v2/adviser/homepage/titleproposal/route1.php on line 103
+[2026-02-06 16:35:34] Array
+(
+    [type] => 1
+    [message] => Uncaught Error: Call to undefined function exec() in /home/u138396369/domains/trs.smcc-riid.com/public_html/v2/adviser/homepage/titleproposal/route1.php:103
+Stack trace:
+#0 /home/u138396369/domains/trs.smcc-riid.com/public_html/v2/adviser/homepage/titleproposal/route1.php(235): sendStudentNotificationEmail()
+#1 {main}
+  thrown
+    [file] => /home/u138396369/domains/trs.smcc-riid.com/public_html/v2/adviser/homepage/titleproposal/route1.php
+    [line] => 103
+)
+
+[06-Feb-2026 16:35:49 UTC] Form submission started at 2026-02-06 16:35:49
+[06-Feb-2026 16:35:49 UTC] Received data - adviser_id: 50, student_id: 103, route1_id: 125
+[06-Feb-2026 16:35:49 UTC] Form rows count: 1
+[06-Feb-2026 16:35:49 UTC] Processing row 0 - chapter: 123, feedback: 123...
+[06-Feb-2026 16:35:49 UTC] Successfully inserted row 0
+[06-Feb-2026 16:35:49 UTC] Form insertion completed. Success: true
+[06-Feb-2026 16:35:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function exec() in /home/u138396369/domains/trs.smcc-riid.com/public_html/v2/adviser/homepage/titleproposal/route1.php:103
+Stack trace:
+#0 /home/u138396369/domains/trs.smcc-riid.com/public_html/v2/adviser/homepage/titleproposal/route1.php(235): sendStudentNotificationEmail()
+#1 {main}
+  thrown in /home/u138396369/domains/trs.smcc-riid.com/public_html/v2/adviser/homepage/titleproposal/route1.php on line 103
+[2026-02-06 16:35:49] Array
+(
+    [type] => 1
+    [message] => Uncaught Error: Call to undefined function exec() in /home/u138396369/domains/trs.smcc-riid.com/public_html/v2/adviser/homepage/titleproposal/route1.php:103
+Stack trace:
+#0 /home/u138396369/domains/trs.smcc-riid.com/public_html/v2/adviser/homepage/titleproposal/route1.php(235): sendStudentNotificationEmail()
+#1 {main}
+  thrown
+    [file] => /home/u138396369/domains/trs.smcc-riid.com/public_html/v2/adviser/homepage/titleproposal/route1.php
+    [line] => 103
+)
+

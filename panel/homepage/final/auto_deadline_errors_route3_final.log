@@ -1,0 +1,657 @@
+[17-Feb-2026 02:53:28 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 25
+[17-Feb-2026 02:53:28 UTC] Deadline from DB: 2026-02-17 13:17:00
+[17-Feb-2026 02:53:28 UTC] PH time NOW: 2026-02-17 10:53:28
+[17-Feb-2026 02:53:28 UTC] Deadline:    2026-02-17 13:17:00
+[17-Feb-2026 02:53:28 UTC] Deadline not yet passed - exiting
+[17-Feb-2026 02:53:30 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 25
+[17-Feb-2026 02:53:30 UTC] Deadline from DB: 2026-02-17 13:17:00
+[17-Feb-2026 02:53:30 UTC] PH time NOW: 2026-02-17 10:53:30
+[17-Feb-2026 02:53:30 UTC] Deadline:    2026-02-17 13:17:00
+[17-Feb-2026 02:53:30 UTC] Deadline not yet passed - exiting
+[17-Feb-2026 02:53:56 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 25
+[17-Feb-2026 02:53:56 UTC] Deadline from DB: 2026-02-17 13:17:00
+[17-Feb-2026 02:53:56 UTC] PH time NOW: 2026-02-17 10:53:56
+[17-Feb-2026 02:53:56 UTC] Deadline:    2026-02-17 13:17:00
+[17-Feb-2026 02:53:56 UTC] Deadline not yet passed - exiting
+[17-Feb-2026 02:53:57 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 25
+[17-Feb-2026 02:53:57 UTC] Deadline from DB: 2026-02-17 13:17:00
+[17-Feb-2026 02:53:57 UTC] PH time NOW: 2026-02-17 10:53:57
+[17-Feb-2026 02:53:57 UTC] Deadline:    2026-02-17 13:17:00
+[17-Feb-2026 02:53:57 UTC] Deadline not yet passed - exiting
+[17-Feb-2026 02:53:58 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 25
+[17-Feb-2026 02:53:58 UTC] Deadline from DB: 2026-02-17 13:17:00
+[17-Feb-2026 02:53:58 UTC] PH time NOW: 2026-02-17 10:53:58
+[17-Feb-2026 02:53:58 UTC] Deadline:    2026-02-17 13:17:00
+[17-Feb-2026 02:53:58 UTC] Deadline not yet passed - exiting
+[17-Feb-2026 02:55:12 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 25
+[17-Feb-2026 02:55:12 UTC] Deadline from DB: 2026-02-17 10:55:00
+[17-Feb-2026 02:55:12 UTC] PH time NOW: 2026-02-17 10:55:12
+[17-Feb-2026 02:55:12 UTC] Deadline:    2026-02-17 10:55:00
+[17-Feb-2026 02:55:12 UTC] Deadline HAS PASSED - processing panels...
+[17-Feb-2026 02:55:12 UTC] Non-empty panel IDs: [41]
+[17-Feb-2026 02:55:12 UTC] Checking panel_id: 41
+[17-Feb-2026 02:55:12 UTC] Panel 41 feedback count: 0
+[17-Feb-2026 02:55:12 UTC] Inserting 'No comment' for panel: Dominic Abarquez (ID: 41)
+[17-Feb-2026 02:55:12 UTC] ✅ INSERT SUCCESS for panel_id: 41
+[17-Feb-2026 02:55:12 UTC] === Deadline Checker Completed (Route3 Final) ===
+[17-Feb-2026 02:55:14 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 25
+[17-Feb-2026 02:55:14 UTC] Deadline from DB: 2026-02-17 10:55:00
+[17-Feb-2026 02:55:14 UTC] PH time NOW: 2026-02-17 10:55:14
+[17-Feb-2026 02:55:14 UTC] Deadline:    2026-02-17 10:55:00
+[17-Feb-2026 02:55:14 UTC] Deadline HAS PASSED - processing panels...
+[17-Feb-2026 02:55:14 UTC] Non-empty panel IDs: [41]
+[17-Feb-2026 02:55:14 UTC] Checking panel_id: 41
+[17-Feb-2026 02:55:14 UTC] Panel 41 feedback count: 1
+[17-Feb-2026 02:55:14 UTC] Panel 41 already has feedback - skipping
+[17-Feb-2026 02:55:14 UTC] === Deadline Checker Completed (Route3 Final) ===
+[17-Feb-2026 03:20:01 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 25
+[17-Feb-2026 03:20:01 UTC] Deadline from DB: 2026-02-17 22:56:00
+[17-Feb-2026 03:20:01 UTC] PH time NOW: 2026-02-17 11:20:01
+[17-Feb-2026 03:20:01 UTC] Deadline:    2026-02-17 22:56:00
+[17-Feb-2026 03:20:01 UTC] Deadline not yet passed - exiting
+[17-Feb-2026 03:20:02 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 25
+[17-Feb-2026 03:20:02 UTC] Deadline from DB: 2026-02-17 22:56:00
+[17-Feb-2026 03:20:02 UTC] PH time NOW: 2026-02-17 11:20:02
+[17-Feb-2026 03:20:02 UTC] Deadline:    2026-02-17 22:56:00
+[17-Feb-2026 03:20:02 UTC] Deadline not yet passed - exiting
+[17-Feb-2026 03:20:05 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 25
+[17-Feb-2026 03:20:05 UTC] Deadline from DB: 2026-02-17 22:56:00
+[17-Feb-2026 03:20:05 UTC] PH time NOW: 2026-02-17 11:20:05
+[17-Feb-2026 03:20:05 UTC] Deadline:    2026-02-17 22:56:00
+[17-Feb-2026 03:20:05 UTC] Deadline not yet passed - exiting
+[18-Feb-2026 04:09:18 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 25
+[18-Feb-2026 04:09:18 UTC] Deadline from DB: 2026-02-17 22:56:00
+[18-Feb-2026 04:09:18 UTC] PH time NOW: 2026-02-18 12:09:18
+[18-Feb-2026 04:09:18 UTC] Deadline:    2026-02-17 22:56:00
+[18-Feb-2026 04:09:18 UTC] Deadline HAS PASSED - processing panels...
+[18-Feb-2026 04:09:18 UTC] Non-empty panel IDs: [41]
+[18-Feb-2026 04:09:18 UTC] Checking panel_id: 41
+[18-Feb-2026 04:09:18 UTC] Panel 41 feedback count: 2
+[18-Feb-2026 04:09:18 UTC] Panel 41 already has feedback - skipping
+[18-Feb-2026 04:09:18 UTC] === Deadline Checker Completed (Route3 Final) ===
+[18-Feb-2026 04:11:02 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 25
+[18-Feb-2026 04:11:02 UTC] Deadline from DB: 2026-02-17 22:56:00
+[18-Feb-2026 04:11:02 UTC] PH time NOW: 2026-02-18 12:11:02
+[18-Feb-2026 04:11:02 UTC] Deadline:    2026-02-17 22:56:00
+[18-Feb-2026 04:11:02 UTC] Deadline HAS PASSED - processing panels...
+[18-Feb-2026 04:11:02 UTC] Non-empty panel IDs: [41]
+[18-Feb-2026 04:11:02 UTC] Checking panel_id: 41
+[18-Feb-2026 04:11:02 UTC] Panel 41 feedback count: 2
+[18-Feb-2026 04:11:02 UTC] Panel 41 already has feedback - skipping
+[18-Feb-2026 04:11:02 UTC] === Deadline Checker Completed (Route3 Final) ===
+[18-Feb-2026 04:11:04 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 25
+[18-Feb-2026 04:11:04 UTC] Deadline from DB: 2026-02-17 22:56:00
+[18-Feb-2026 04:11:04 UTC] PH time NOW: 2026-02-18 12:11:04
+[18-Feb-2026 04:11:04 UTC] Deadline:    2026-02-17 22:56:00
+[18-Feb-2026 04:11:04 UTC] Deadline HAS PASSED - processing panels...
+[18-Feb-2026 04:11:04 UTC] Non-empty panel IDs: [41]
+[18-Feb-2026 04:11:04 UTC] Checking panel_id: 41
+[18-Feb-2026 04:11:04 UTC] Panel 41 feedback count: 2
+[18-Feb-2026 04:11:04 UTC] Panel 41 already has feedback - skipping
+[18-Feb-2026 04:11:04 UTC] === Deadline Checker Completed (Route3 Final) ===
+[18-Feb-2026 05:21:39 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 25
+[18-Feb-2026 05:21:39 UTC] Deadline from DB: 2026-02-17 22:56:00
+[18-Feb-2026 05:21:39 UTC] PH time NOW: 2026-02-18 13:21:39
+[18-Feb-2026 05:21:39 UTC] Deadline:    2026-02-17 22:56:00
+[18-Feb-2026 05:21:39 UTC] Deadline HAS PASSED - processing panels...
+[18-Feb-2026 05:21:39 UTC] Non-empty panel IDs: [41]
+[18-Feb-2026 05:21:39 UTC] Checking panel_id: 41
+[18-Feb-2026 05:21:39 UTC] Panel 41 feedback count: 2
+[18-Feb-2026 05:21:39 UTC] Panel 41 already has feedback - skipping
+[18-Feb-2026 05:21:39 UTC] === Deadline Checker Completed (Route3 Final) ===
+[18-Feb-2026 05:22:46 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 25
+[18-Feb-2026 05:22:46 UTC] Deadline from DB: 2026-02-17 22:56:00
+[18-Feb-2026 05:22:46 UTC] PH time NOW: 2026-02-18 13:22:46
+[18-Feb-2026 05:22:46 UTC] Deadline:    2026-02-17 22:56:00
+[18-Feb-2026 05:22:46 UTC] Deadline HAS PASSED - processing panels...
+[18-Feb-2026 05:22:46 UTC] Non-empty panel IDs: [41]
+[18-Feb-2026 05:22:46 UTC] Checking panel_id: 41
+[18-Feb-2026 05:22:46 UTC] Panel 41 feedback count: 2
+[18-Feb-2026 05:22:46 UTC] Panel 41 already has feedback - skipping
+[18-Feb-2026 05:22:46 UTC] === Deadline Checker Completed (Route3 Final) ===
+[18-Feb-2026 06:21:26 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 25
+[18-Feb-2026 06:21:26 UTC] Deadline from DB: 2026-02-17 22:56:00
+[18-Feb-2026 06:21:26 UTC] PH time NOW: 2026-02-18 14:21:26
+[18-Feb-2026 06:21:26 UTC] Deadline:    2026-02-17 22:56:00
+[18-Feb-2026 06:21:26 UTC] Deadline HAS PASSED - processing panels...
+[18-Feb-2026 06:21:26 UTC] Non-empty panel IDs: [41]
+[18-Feb-2026 06:21:26 UTC] Checking panel_id: 41
+[18-Feb-2026 06:21:26 UTC] Panel 41 feedback count: 2
+[18-Feb-2026 06:21:26 UTC] Panel 41 already has feedback - skipping
+[18-Feb-2026 06:21:26 UTC] === Deadline Checker Completed (Route3 Final) ===
+[18-Feb-2026 06:33:39 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 25
+[18-Feb-2026 06:33:39 UTC] Deadline from DB: 2026-02-17 22:56:00
+[18-Feb-2026 06:33:39 UTC] PH time NOW: 2026-02-18 14:33:39
+[18-Feb-2026 06:33:39 UTC] Deadline:    2026-02-17 22:56:00
+[18-Feb-2026 06:33:39 UTC] Deadline HAS PASSED - processing panels...
+[18-Feb-2026 06:33:39 UTC] Non-empty panel IDs: [41]
+[18-Feb-2026 06:33:39 UTC] Checking panel_id: 41
+[18-Feb-2026 06:33:39 UTC] Panel 41 feedback count: 2
+[18-Feb-2026 06:33:39 UTC] Panel 41 already has feedback - skipping
+[18-Feb-2026 06:33:39 UTC] === Deadline Checker Completed (Route3 Final) ===
+[18-Feb-2026 06:33:41 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 25
+[18-Feb-2026 06:33:41 UTC] Deadline from DB: 2026-02-17 22:56:00
+[18-Feb-2026 06:33:41 UTC] PH time NOW: 2026-02-18 14:33:41
+[18-Feb-2026 06:33:41 UTC] Deadline:    2026-02-17 22:56:00
+[18-Feb-2026 06:33:41 UTC] Deadline HAS PASSED - processing panels...
+[18-Feb-2026 06:33:41 UTC] Non-empty panel IDs: [41]
+[18-Feb-2026 06:33:41 UTC] Checking panel_id: 41
+[18-Feb-2026 06:33:41 UTC] Panel 41 feedback count: 2
+[18-Feb-2026 06:33:41 UTC] Panel 41 already has feedback - skipping
+[18-Feb-2026 06:33:41 UTC] === Deadline Checker Completed (Route3 Final) ===
+[18-Feb-2026 06:39:32 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 25
+[18-Feb-2026 06:39:32 UTC] Deadline from DB: 2026-02-17 22:56:00
+[18-Feb-2026 06:39:32 UTC] PH time NOW: 2026-02-18 14:39:32
+[18-Feb-2026 06:39:32 UTC] Deadline:    2026-02-17 22:56:00
+[18-Feb-2026 06:39:32 UTC] Deadline HAS PASSED - processing panels...
+[18-Feb-2026 06:39:32 UTC] Non-empty panel IDs: [41]
+[18-Feb-2026 06:39:32 UTC] Checking panel_id: 41
+[18-Feb-2026 06:39:32 UTC] Panel 41 feedback count: 2
+[18-Feb-2026 06:39:32 UTC] Panel 41 already has feedback - skipping
+[18-Feb-2026 06:39:32 UTC] === Deadline Checker Completed (Route3 Final) ===
+[18-Feb-2026 06:39:35 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 25
+[18-Feb-2026 06:39:35 UTC] Deadline from DB: 2026-02-17 22:56:00
+[18-Feb-2026 06:39:35 UTC] PH time NOW: 2026-02-18 14:39:35
+[18-Feb-2026 06:39:35 UTC] Deadline:    2026-02-17 22:56:00
+[18-Feb-2026 06:39:35 UTC] Deadline HAS PASSED - processing panels...
+[18-Feb-2026 06:39:35 UTC] Non-empty panel IDs: [41]
+[18-Feb-2026 06:39:35 UTC] Checking panel_id: 41
+[18-Feb-2026 06:39:35 UTC] Panel 41 feedback count: 2
+[18-Feb-2026 06:39:35 UTC] Panel 41 already has feedback - skipping
+[18-Feb-2026 06:39:35 UTC] === Deadline Checker Completed (Route3 Final) ===
+[20-Feb-2026 02:25:07 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 25
+[20-Feb-2026 02:25:07 UTC] Deadline from DB: 2026-02-17 22:56:00
+[20-Feb-2026 02:25:07 UTC] PH time NOW: 2026-02-20 10:25:07
+[20-Feb-2026 02:25:07 UTC] Deadline:    2026-02-17 22:56:00
+[20-Feb-2026 02:25:07 UTC] Deadline HAS PASSED - processing panels...
+[20-Feb-2026 02:25:07 UTC] Non-empty panel IDs: [41]
+[20-Feb-2026 02:25:07 UTC] Checking panel_id: 41
+[20-Feb-2026 02:25:07 UTC] Panel 41 feedback count: 2
+[20-Feb-2026 02:25:07 UTC] Panel 41 already has feedback - skipping
+[20-Feb-2026 02:25:07 UTC] === Deadline Checker Completed (Route3 Final) ===
+[20-Feb-2026 02:25:09 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 25
+[20-Feb-2026 02:25:09 UTC] Deadline from DB: 2026-02-17 22:56:00
+[20-Feb-2026 02:25:09 UTC] PH time NOW: 2026-02-20 10:25:09
+[20-Feb-2026 02:25:09 UTC] Deadline:    2026-02-17 22:56:00
+[20-Feb-2026 02:25:09 UTC] Deadline HAS PASSED - processing panels...
+[20-Feb-2026 02:25:09 UTC] Non-empty panel IDs: [41]
+[20-Feb-2026 02:25:09 UTC] Checking panel_id: 41
+[20-Feb-2026 02:25:09 UTC] Panel 41 feedback count: 2
+[20-Feb-2026 02:25:09 UTC] Panel 41 already has feedback - skipping
+[20-Feb-2026 02:25:09 UTC] === Deadline Checker Completed (Route3 Final) ===
+[20-Feb-2026 02:25:21 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 25
+[20-Feb-2026 02:25:21 UTC] Deadline from DB: 2026-02-17 22:56:00
+[20-Feb-2026 02:25:21 UTC] PH time NOW: 2026-02-20 10:25:21
+[20-Feb-2026 02:25:21 UTC] Deadline:    2026-02-17 22:56:00
+[20-Feb-2026 02:25:21 UTC] Deadline HAS PASSED - processing panels...
+[20-Feb-2026 02:25:21 UTC] Non-empty panel IDs: [41]
+[20-Feb-2026 02:25:21 UTC] Checking panel_id: 41
+[20-Feb-2026 02:25:21 UTC] Panel 41 feedback count: 2
+[20-Feb-2026 02:25:21 UTC] Panel 41 already has feedback - skipping
+[20-Feb-2026 02:25:21 UTC] === Deadline Checker Completed (Route3 Final) ===
+[20-Feb-2026 02:25:23 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 25
+[20-Feb-2026 02:25:23 UTC] Deadline from DB: 2026-02-17 22:56:00
+[20-Feb-2026 02:25:23 UTC] PH time NOW: 2026-02-20 10:25:23
+[20-Feb-2026 02:25:23 UTC] Deadline:    2026-02-17 22:56:00
+[20-Feb-2026 02:25:23 UTC] Deadline HAS PASSED - processing panels...
+[20-Feb-2026 02:25:23 UTC] Non-empty panel IDs: [41]
+[20-Feb-2026 02:25:23 UTC] Checking panel_id: 41
+[20-Feb-2026 02:25:23 UTC] Panel 41 feedback count: 2
+[20-Feb-2026 02:25:23 UTC] Panel 41 already has feedback - skipping
+[20-Feb-2026 02:25:23 UTC] === Deadline Checker Completed (Route3 Final) ===
+[20-Feb-2026 02:30:29 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 25
+[20-Feb-2026 02:30:29 UTC] Deadline from DB: 2026-02-17 22:56:00
+[20-Feb-2026 02:30:29 UTC] PH time NOW: 2026-02-20 10:30:29
+[20-Feb-2026 02:30:29 UTC] Deadline:    2026-02-17 22:56:00
+[20-Feb-2026 02:30:29 UTC] Deadline HAS PASSED - processing panels...
+[20-Feb-2026 02:30:29 UTC] Non-empty panel IDs: [41]
+[20-Feb-2026 02:30:29 UTC] Checking panel_id: 41
+[20-Feb-2026 02:30:29 UTC] Panel 41 feedback count: 2
+[20-Feb-2026 02:30:29 UTC] Panel 41 already has feedback - skipping
+[20-Feb-2026 02:30:29 UTC] === Deadline Checker Completed (Route3 Final) ===
+[20-Feb-2026 02:30:40 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 25
+[20-Feb-2026 02:30:40 UTC] Deadline from DB: 2026-02-17 22:56:00
+[20-Feb-2026 02:30:40 UTC] PH time NOW: 2026-02-20 10:30:40
+[20-Feb-2026 02:30:40 UTC] Deadline:    2026-02-17 22:56:00
+[20-Feb-2026 02:30:40 UTC] Deadline HAS PASSED - processing panels...
+[20-Feb-2026 02:30:40 UTC] Non-empty panel IDs: [41]
+[20-Feb-2026 02:30:40 UTC] Checking panel_id: 41
+[20-Feb-2026 02:30:40 UTC] Panel 41 feedback count: 2
+[20-Feb-2026 02:30:40 UTC] Panel 41 already has feedback - skipping
+[20-Feb-2026 02:30:40 UTC] === Deadline Checker Completed (Route3 Final) ===
+[20-Feb-2026 02:30:41 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 25
+[20-Feb-2026 02:30:41 UTC] Deadline from DB: 2026-02-17 22:56:00
+[20-Feb-2026 02:30:41 UTC] PH time NOW: 2026-02-20 10:30:41
+[20-Feb-2026 02:30:41 UTC] Deadline:    2026-02-17 22:56:00
+[20-Feb-2026 02:30:41 UTC] Deadline HAS PASSED - processing panels...
+[20-Feb-2026 02:30:41 UTC] Non-empty panel IDs: [41]
+[20-Feb-2026 02:30:41 UTC] Checking panel_id: 41
+[20-Feb-2026 02:30:41 UTC] Panel 41 feedback count: 2
+[20-Feb-2026 02:30:41 UTC] Panel 41 already has feedback - skipping
+[20-Feb-2026 02:30:41 UTC] === Deadline Checker Completed (Route3 Final) ===
+[20-Feb-2026 02:30:42 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 25
+[20-Feb-2026 02:30:42 UTC] Deadline from DB: 2026-02-17 22:56:00
+[20-Feb-2026 02:30:42 UTC] PH time NOW: 2026-02-20 10:30:42
+[20-Feb-2026 02:30:42 UTC] Deadline:    2026-02-17 22:56:00
+[20-Feb-2026 02:30:42 UTC] Deadline HAS PASSED - processing panels...
+[20-Feb-2026 02:30:42 UTC] Non-empty panel IDs: [41]
+[20-Feb-2026 02:30:42 UTC] Checking panel_id: 41
+[20-Feb-2026 02:30:42 UTC] Panel 41 feedback count: 2
+[20-Feb-2026 02:30:42 UTC] Panel 41 already has feedback - skipping
+[20-Feb-2026 02:30:42 UTC] === Deadline Checker Completed (Route3 Final) ===
+[20-Feb-2026 02:30:43 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 25
+[20-Feb-2026 02:30:43 UTC] Deadline from DB: 2026-02-17 22:56:00
+[20-Feb-2026 02:30:43 UTC] PH time NOW: 2026-02-20 10:30:43
+[20-Feb-2026 02:30:43 UTC] Deadline:    2026-02-17 22:56:00
+[20-Feb-2026 02:30:43 UTC] Deadline HAS PASSED - processing panels...
+[20-Feb-2026 02:30:43 UTC] Non-empty panel IDs: [41]
+[20-Feb-2026 02:30:43 UTC] Checking panel_id: 41
+[20-Feb-2026 02:30:43 UTC] Panel 41 feedback count: 2
+[20-Feb-2026 02:30:43 UTC] Panel 41 already has feedback - skipping
+[20-Feb-2026 02:30:43 UTC] === Deadline Checker Completed (Route3 Final) ===
+[20-Feb-2026 02:30:43 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 25
+[20-Feb-2026 02:30:43 UTC] Deadline from DB: 2026-02-17 22:56:00
+[20-Feb-2026 02:30:43 UTC] PH time NOW: 2026-02-20 10:30:43
+[20-Feb-2026 02:30:43 UTC] Deadline:    2026-02-17 22:56:00
+[20-Feb-2026 02:30:43 UTC] Deadline HAS PASSED - processing panels...
+[20-Feb-2026 02:30:43 UTC] Non-empty panel IDs: [41]
+[20-Feb-2026 02:30:43 UTC] Checking panel_id: 41
+[20-Feb-2026 02:30:43 UTC] Panel 41 feedback count: 2
+[20-Feb-2026 02:30:43 UTC] Panel 41 already has feedback - skipping
+[20-Feb-2026 02:30:43 UTC] === Deadline Checker Completed (Route3 Final) ===
+[20-Feb-2026 02:30:43 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 25
+[20-Feb-2026 02:30:43 UTC] Deadline from DB: 2026-02-17 22:56:00
+[20-Feb-2026 02:30:43 UTC] PH time NOW: 2026-02-20 10:30:43
+[20-Feb-2026 02:30:43 UTC] Deadline:    2026-02-17 22:56:00
+[20-Feb-2026 02:30:43 UTC] Deadline HAS PASSED - processing panels...
+[20-Feb-2026 02:30:43 UTC] Non-empty panel IDs: [41]
+[20-Feb-2026 02:30:43 UTC] Checking panel_id: 41
+[20-Feb-2026 02:30:43 UTC] Panel 41 feedback count: 2
+[20-Feb-2026 02:30:43 UTC] Panel 41 already has feedback - skipping
+[20-Feb-2026 02:30:43 UTC] === Deadline Checker Completed (Route3 Final) ===
+[20-Feb-2026 02:30:44 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 25
+[20-Feb-2026 02:30:44 UTC] Deadline from DB: 2026-02-17 22:56:00
+[20-Feb-2026 02:30:44 UTC] PH time NOW: 2026-02-20 10:30:44
+[20-Feb-2026 02:30:44 UTC] Deadline:    2026-02-17 22:56:00
+[20-Feb-2026 02:30:44 UTC] Deadline HAS PASSED - processing panels...
+[20-Feb-2026 02:30:44 UTC] Non-empty panel IDs: [41]
+[20-Feb-2026 02:30:44 UTC] Checking panel_id: 41
+[20-Feb-2026 02:30:44 UTC] Panel 41 feedback count: 2
+[20-Feb-2026 02:30:44 UTC] Panel 41 already has feedback - skipping
+[20-Feb-2026 02:30:44 UTC] === Deadline Checker Completed (Route3 Final) ===
+[20-Feb-2026 02:42:43 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 26
+[20-Feb-2026 02:42:43 UTC] Deadline from DB: NULL
+[20-Feb-2026 02:42:43 UTC] No deadline set or invalid deadline - exiting
+[20-Feb-2026 02:42:44 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 26
+[20-Feb-2026 02:42:44 UTC] Deadline from DB: NULL
+[20-Feb-2026 02:42:44 UTC] No deadline set or invalid deadline - exiting
+[20-Feb-2026 02:42:45 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 26
+[20-Feb-2026 02:42:45 UTC] Deadline from DB: NULL
+[20-Feb-2026 02:42:45 UTC] No deadline set or invalid deadline - exiting
+[20-Feb-2026 02:42:46 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 26
+[20-Feb-2026 02:42:46 UTC] Deadline from DB: NULL
+[20-Feb-2026 02:42:46 UTC] No deadline set or invalid deadline - exiting
+[20-Feb-2026 02:43:36 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 26
+[20-Feb-2026 02:43:36 UTC] Deadline from DB: NULL
+[20-Feb-2026 02:43:36 UTC] No deadline set or invalid deadline - exiting
+[20-Feb-2026 02:43:38 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 26
+[20-Feb-2026 02:43:38 UTC] Deadline from DB: NULL
+[20-Feb-2026 02:43:38 UTC] No deadline set or invalid deadline - exiting
+[20-Feb-2026 02:45:01 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 26
+[20-Feb-2026 02:45:01 UTC] Deadline from DB: NULL
+[20-Feb-2026 02:45:01 UTC] No deadline set or invalid deadline - exiting
+[20-Feb-2026 02:45:02 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 26
+[20-Feb-2026 02:45:02 UTC] Deadline from DB: NULL
+[20-Feb-2026 02:45:02 UTC] No deadline set or invalid deadline - exiting
+[20-Feb-2026 02:45:02 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 26
+[20-Feb-2026 02:45:02 UTC] Deadline from DB: NULL
+[20-Feb-2026 02:45:02 UTC] No deadline set or invalid deadline - exiting
+[20-Feb-2026 02:45:02 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 26
+[20-Feb-2026 02:45:02 UTC] Deadline from DB: NULL
+[20-Feb-2026 02:45:02 UTC] No deadline set or invalid deadline - exiting
+[20-Feb-2026 02:45:03 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 26
+[20-Feb-2026 02:45:03 UTC] Deadline from DB: NULL
+[20-Feb-2026 02:45:03 UTC] No deadline set or invalid deadline - exiting
+[20-Feb-2026 02:45:04 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 26
+[20-Feb-2026 02:45:04 UTC] Deadline from DB: NULL
+[20-Feb-2026 02:45:04 UTC] No deadline set or invalid deadline - exiting
+[20-Feb-2026 02:45:11 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 26
+[20-Feb-2026 02:45:11 UTC] Deadline from DB: NULL
+[20-Feb-2026 02:45:11 UTC] No deadline set or invalid deadline - exiting
+[20-Feb-2026 02:45:12 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 26
+[20-Feb-2026 02:45:12 UTC] Deadline from DB: NULL
+[20-Feb-2026 02:45:12 UTC] No deadline set or invalid deadline - exiting
+[20-Feb-2026 02:45:26 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 26
+[20-Feb-2026 02:45:26 UTC] Deadline from DB: NULL
+[20-Feb-2026 02:45:26 UTC] No deadline set or invalid deadline - exiting
+[20-Feb-2026 02:45:27 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 26
+[20-Feb-2026 02:45:27 UTC] Deadline from DB: NULL
+[20-Feb-2026 02:45:27 UTC] No deadline set or invalid deadline - exiting
+[20-Feb-2026 02:55:52 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 26
+[20-Feb-2026 02:55:52 UTC] Deadline from DB: NULL
+[20-Feb-2026 02:55:52 UTC] No deadline set or invalid deadline - exiting
+[20-Feb-2026 02:55:53 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 26
+[20-Feb-2026 02:55:53 UTC] Deadline from DB: NULL
+[20-Feb-2026 02:55:53 UTC] No deadline set or invalid deadline - exiting
+[20-Feb-2026 02:57:30 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 26
+[20-Feb-2026 02:57:30 UTC] Deadline from DB: NULL
+[20-Feb-2026 02:57:30 UTC] No deadline set or invalid deadline - exiting
+[20-Feb-2026 02:57:31 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 26
+[20-Feb-2026 02:57:31 UTC] Deadline from DB: NULL
+[20-Feb-2026 02:57:31 UTC] No deadline set or invalid deadline - exiting
+[20-Feb-2026 02:58:02 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 26
+[20-Feb-2026 02:58:02 UTC] Deadline from DB: NULL
+[20-Feb-2026 02:58:02 UTC] No deadline set or invalid deadline - exiting
+[20-Feb-2026 02:58:03 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 26
+[20-Feb-2026 02:58:03 UTC] Deadline from DB: NULL
+[20-Feb-2026 02:58:03 UTC] No deadline set or invalid deadline - exiting
+[20-Feb-2026 02:58:03 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 26
+[20-Feb-2026 02:58:03 UTC] Deadline from DB: NULL
+[20-Feb-2026 02:58:03 UTC] No deadline set or invalid deadline - exiting
+[20-Feb-2026 02:58:04 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 26
+[20-Feb-2026 02:58:04 UTC] Deadline from DB: NULL
+[20-Feb-2026 02:58:04 UTC] No deadline set or invalid deadline - exiting
+[20-Feb-2026 02:58:05 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 26
+[20-Feb-2026 02:58:05 UTC] Deadline from DB: NULL
+[20-Feb-2026 02:58:05 UTC] No deadline set or invalid deadline - exiting
+[20-Feb-2026 02:58:24 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 26
+[20-Feb-2026 02:58:24 UTC] Deadline from DB: NULL
+[20-Feb-2026 02:58:24 UTC] No deadline set or invalid deadline - exiting
+[20-Feb-2026 02:58:26 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 26
+[20-Feb-2026 02:58:26 UTC] Deadline from DB: NULL
+[20-Feb-2026 02:58:26 UTC] No deadline set or invalid deadline - exiting
+[20-Feb-2026 02:58:40 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 26
+[20-Feb-2026 02:58:40 UTC] Deadline from DB: NULL
+[20-Feb-2026 02:58:40 UTC] No deadline set or invalid deadline - exiting
+[20-Feb-2026 02:58:43 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 26
+[20-Feb-2026 02:58:43 UTC] Deadline from DB: NULL
+[20-Feb-2026 02:58:43 UTC] No deadline set or invalid deadline - exiting
+[20-Feb-2026 02:58:44 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 26
+[20-Feb-2026 02:58:44 UTC] Deadline from DB: NULL
+[20-Feb-2026 02:58:44 UTC] No deadline set or invalid deadline - exiting
+[20-Feb-2026 02:59:01 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 26
+[20-Feb-2026 02:59:01 UTC] Deadline from DB: NULL
+[20-Feb-2026 02:59:01 UTC] No deadline set or invalid deadline - exiting
+[20-Feb-2026 03:09:05 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 26
+[20-Feb-2026 03:09:05 UTC] Deadline from DB: NULL
+[20-Feb-2026 03:09:05 UTC] No deadline set or invalid deadline - exiting
+[20-Feb-2026 03:09:06 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 26
+[20-Feb-2026 03:09:06 UTC] Deadline from DB: NULL
+[20-Feb-2026 03:09:06 UTC] No deadline set or invalid deadline - exiting
+[20-Feb-2026 03:09:08 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 26
+[20-Feb-2026 03:09:08 UTC] Deadline from DB: NULL
+[20-Feb-2026 03:09:08 UTC] No deadline set or invalid deadline - exiting
+[20-Feb-2026 03:09:37 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 26
+[20-Feb-2026 03:09:37 UTC] Deadline from DB: NULL
+[20-Feb-2026 03:09:37 UTC] No deadline set or invalid deadline - exiting
+[20-Feb-2026 03:09:38 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 26
+[20-Feb-2026 03:09:38 UTC] Deadline from DB: NULL
+[20-Feb-2026 03:09:38 UTC] No deadline set or invalid deadline - exiting
+[20-Feb-2026 03:09:41 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 26
+[20-Feb-2026 03:09:41 UTC] Deadline from DB: NULL
+[20-Feb-2026 03:09:41 UTC] No deadline set or invalid deadline - exiting
+[23-Feb-2026 03:08:36 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 26
+[23-Feb-2026 03:08:36 UTC] Deadline from DB: NULL
+[23-Feb-2026 03:08:36 UTC] No deadline set or invalid deadline - exiting
+[23-Feb-2026 03:08:37 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 26
+[23-Feb-2026 03:08:37 UTC] Deadline from DB: NULL
+[23-Feb-2026 03:08:37 UTC] No deadline set or invalid deadline - exiting
+[23-Feb-2026 03:09:10 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 26
+[23-Feb-2026 03:09:10 UTC] Deadline from DB: NULL
+[23-Feb-2026 03:09:10 UTC] No deadline set or invalid deadline - exiting
+[23-Feb-2026 03:29:07 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 26
+[23-Feb-2026 03:29:07 UTC] Deadline from DB: NULL
+[23-Feb-2026 03:29:07 UTC] No deadline set or invalid deadline - exiting
+[23-Feb-2026 03:29:11 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 26
+[23-Feb-2026 03:29:11 UTC] Deadline from DB: NULL
+[23-Feb-2026 03:29:11 UTC] No deadline set or invalid deadline - exiting
+[23-Feb-2026 03:29:13 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 26
+[23-Feb-2026 03:29:13 UTC] Deadline from DB: NULL
+[23-Feb-2026 03:29:13 UTC] No deadline set or invalid deadline - exiting
+[24-Feb-2026 00:39:52 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 26
+[24-Feb-2026 00:39:52 UTC] Deadline from DB: NULL
+[24-Feb-2026 00:39:52 UTC] No deadline set or invalid deadline - exiting
+[24-Feb-2026 00:39:53 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 26
+[24-Feb-2026 00:39:53 UTC] Deadline from DB: NULL
+[24-Feb-2026 00:39:53 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 03:01:50 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 03:01:50 UTC] Deadline from DB: NULL
+[25-Feb-2026 03:01:50 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 03:01:52 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 03:01:52 UTC] Deadline from DB: NULL
+[25-Feb-2026 03:01:52 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 03:01:54 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 03:01:54 UTC] Deadline from DB: NULL
+[25-Feb-2026 03:01:54 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 03:08:23 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 03:08:23 UTC] Deadline from DB: NULL
+[25-Feb-2026 03:08:23 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 03:08:26 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 03:08:26 UTC] Deadline from DB: NULL
+[25-Feb-2026 03:08:26 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 03:08:28 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 03:08:28 UTC] Deadline from DB: NULL
+[25-Feb-2026 03:08:28 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 03:08:30 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 03:08:30 UTC] Deadline from DB: NULL
+[25-Feb-2026 03:08:30 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 03:53:19 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 03:53:19 UTC] Deadline from DB: NULL
+[25-Feb-2026 03:53:19 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 03:53:21 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 03:53:21 UTC] Deadline from DB: NULL
+[25-Feb-2026 03:53:21 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 03:53:26 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 03:53:26 UTC] Deadline from DB: NULL
+[25-Feb-2026 03:53:26 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 03:53:27 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 03:53:27 UTC] Deadline from DB: NULL
+[25-Feb-2026 03:53:27 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 03:53:55 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 03:53:55 UTC] Deadline from DB: NULL
+[25-Feb-2026 03:53:55 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 03:53:57 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 03:53:57 UTC] Deadline from DB: NULL
+[25-Feb-2026 03:53:57 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 03:57:10 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 03:57:10 UTC] Deadline from DB: NULL
+[25-Feb-2026 03:57:10 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 03:57:11 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 03:57:11 UTC] Deadline from DB: NULL
+[25-Feb-2026 03:57:11 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 04:31:49 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 04:31:49 UTC] Deadline from DB: NULL
+[25-Feb-2026 04:31:49 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 04:31:51 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 04:31:51 UTC] Deadline from DB: NULL
+[25-Feb-2026 04:31:51 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 04:31:52 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 04:31:52 UTC] Deadline from DB: NULL
+[25-Feb-2026 04:31:52 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 04:32:26 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 04:32:26 UTC] Deadline from DB: NULL
+[25-Feb-2026 04:32:26 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 04:33:08 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 04:33:08 UTC] Deadline from DB: NULL
+[25-Feb-2026 04:33:08 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 04:33:10 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 04:33:10 UTC] Deadline from DB: NULL
+[25-Feb-2026 04:33:10 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 04:33:11 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 04:33:11 UTC] Deadline from DB: NULL
+[25-Feb-2026 04:33:11 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 04:33:25 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 04:33:25 UTC] Deadline from DB: NULL
+[25-Feb-2026 04:33:25 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 04:34:18 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 04:34:18 UTC] Deadline from DB: NULL
+[25-Feb-2026 04:34:18 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 04:34:26 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 04:34:26 UTC] Deadline from DB: NULL
+[25-Feb-2026 04:34:26 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 04:34:38 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 04:34:38 UTC] Deadline from DB: NULL
+[25-Feb-2026 04:34:38 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 04:34:42 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 04:34:42 UTC] Deadline from DB: NULL
+[25-Feb-2026 04:34:42 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 04:34:44 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 04:34:44 UTC] Deadline from DB: NULL
+[25-Feb-2026 04:34:44 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 04:41:52 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 04:41:52 UTC] Deadline from DB: NULL
+[25-Feb-2026 04:41:52 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 04:41:56 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 04:41:56 UTC] Deadline from DB: NULL
+[25-Feb-2026 04:41:56 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 04:43:32 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 04:43:32 UTC] Deadline from DB: NULL
+[25-Feb-2026 04:43:32 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 04:43:34 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 04:43:34 UTC] Deadline from DB: NULL
+[25-Feb-2026 04:43:34 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 04:43:38 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 04:43:38 UTC] Deadline from DB: NULL
+[25-Feb-2026 04:43:38 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 04:45:05 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 04:45:05 UTC] Deadline from DB: NULL
+[25-Feb-2026 04:45:05 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 04:48:50 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 04:48:50 UTC] Deadline from DB: NULL
+[25-Feb-2026 04:48:50 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 04:48:52 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 04:48:52 UTC] Deadline from DB: NULL
+[25-Feb-2026 04:48:52 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 04:48:53 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 04:48:53 UTC] Deadline from DB: NULL
+[25-Feb-2026 04:48:53 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 04:48:54 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 04:48:54 UTC] Deadline from DB: NULL
+[25-Feb-2026 04:48:54 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 04:48:54 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 04:48:54 UTC] Deadline from DB: NULL
+[25-Feb-2026 04:48:54 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 04:48:55 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 04:48:55 UTC] Deadline from DB: NULL
+[25-Feb-2026 04:48:55 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 04:48:57 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 04:48:57 UTC] Deadline from DB: NULL
+[25-Feb-2026 04:48:57 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 04:48:58 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 04:48:58 UTC] Deadline from DB: NULL
+[25-Feb-2026 04:48:58 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 04:52:43 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 04:52:43 UTC] Deadline from DB: NULL
+[25-Feb-2026 04:52:43 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 04:52:45 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 04:52:45 UTC] Deadline from DB: NULL
+[25-Feb-2026 04:52:45 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 04:52:50 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 04:52:50 UTC] Deadline from DB: NULL
+[25-Feb-2026 04:52:50 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 04:52:57 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 04:52:57 UTC] Deadline from DB: NULL
+[25-Feb-2026 04:52:57 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 04:52:58 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 04:52:58 UTC] Deadline from DB: NULL
+[25-Feb-2026 04:52:58 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 04:53:41 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 04:53:41 UTC] Deadline from DB: NULL
+[25-Feb-2026 04:53:41 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 04:53:43 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 04:53:43 UTC] Deadline from DB: NULL
+[25-Feb-2026 04:53:43 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 04:53:45 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 04:53:45 UTC] Deadline from DB: NULL
+[25-Feb-2026 04:53:45 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 04:54:04 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 04:54:04 UTC] Deadline from DB: NULL
+[25-Feb-2026 04:54:04 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 04:55:02 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 04:55:02 UTC] Deadline from DB: NULL
+[25-Feb-2026 04:55:02 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 04:55:03 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 04:55:03 UTC] Deadline from DB: NULL
+[25-Feb-2026 04:55:03 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 04:55:17 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 04:55:17 UTC] Deadline from DB: NULL
+[25-Feb-2026 04:55:17 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 04:55:52 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 04:55:52 UTC] Deadline from DB: NULL
+[25-Feb-2026 04:55:52 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 04:55:53 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 04:55:53 UTC] Deadline from DB: NULL
+[25-Feb-2026 04:55:53 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 04:55:54 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 04:55:54 UTC] Deadline from DB: NULL
+[25-Feb-2026 04:55:54 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 04:59:46 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 04:59:46 UTC] Deadline from DB: NULL
+[25-Feb-2026 04:59:46 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 04:59:48 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[25-Feb-2026 04:59:48 UTC] Deadline from DB: NULL
+[25-Feb-2026 04:59:48 UTC] No deadline set or invalid deadline - exiting
+[07-Mar-2026 04:03:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function checkAndInsertNoCommentsRoute3() in /home/u138396369/domains/trs.smcc-riid.com/public_html/v4/panel/homepage/final/route3.php:483
+Stack trace:
+#0 {main}
+  thrown in /home/u138396369/domains/trs.smcc-riid.com/public_html/v4/panel/homepage/final/route3.php on line 483
+[07-Mar-2026 04:08:13 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[07-Mar-2026 04:08:13 UTC] Deadline from DB: NULL
+[07-Mar-2026 04:08:13 UTC] No deadline set or invalid deadline - exiting
+[07-Mar-2026 04:08:16 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[07-Mar-2026 04:08:16 UTC] Deadline from DB: NULL
+[07-Mar-2026 04:08:16 UTC] No deadline set or invalid deadline - exiting
+[07-Mar-2026 04:08:21 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[07-Mar-2026 04:08:21 UTC] Deadline from DB: NULL
+[07-Mar-2026 04:08:21 UTC] No deadline set or invalid deadline - exiting
+[07-Mar-2026 04:09:41 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[07-Mar-2026 04:09:41 UTC] Deadline from DB: NULL
+[07-Mar-2026 04:09:41 UTC] No deadline set or invalid deadline - exiting
+[07-Mar-2026 04:17:41 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[07-Mar-2026 04:17:41 UTC] Deadline from DB: NULL
+[07-Mar-2026 04:17:41 UTC] No deadline set or invalid deadline - exiting
+[07-Mar-2026 04:17:41 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 29
+[07-Mar-2026 04:17:41 UTC] Deadline from DB: NULL
+[07-Mar-2026 04:17:41 UTC] No deadline set or invalid deadline - exiting
+[07-Mar-2026 04:18:38 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[07-Mar-2026 04:18:38 UTC] Deadline from DB: NULL
+[07-Mar-2026 04:18:38 UTC] No deadline set or invalid deadline - exiting
+[07-Mar-2026 04:18:38 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 29
+[07-Mar-2026 04:18:38 UTC] Deadline from DB: NULL
+[07-Mar-2026 04:18:38 UTC] No deadline set or invalid deadline - exiting
+[07-Mar-2026 04:18:39 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 29
+[07-Mar-2026 04:18:39 UTC] Deadline from DB: NULL
+[07-Mar-2026 04:18:39 UTC] No deadline set or invalid deadline - exiting
+[07-Mar-2026 04:20:29 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[07-Mar-2026 04:20:29 UTC] Deadline from DB: NULL
+[07-Mar-2026 04:20:29 UTC] No deadline set or invalid deadline - exiting
+[07-Mar-2026 04:20:29 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 29
+[07-Mar-2026 04:20:29 UTC] Deadline from DB: NULL
+[07-Mar-2026 04:20:29 UTC] No deadline set or invalid deadline - exiting
+[07-Mar-2026 04:20:31 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 29
+[07-Mar-2026 04:20:31 UTC] Deadline from DB: NULL
+[07-Mar-2026 04:20:31 UTC] No deadline set or invalid deadline - exiting
+[07-Mar-2026 04:20:34 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[07-Mar-2026 04:20:34 UTC] Deadline from DB: NULL
+[07-Mar-2026 04:20:34 UTC] No deadline set or invalid deadline - exiting
+[07-Mar-2026 04:20:34 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 29
+[07-Mar-2026 04:20:34 UTC] Deadline from DB: NULL
+[07-Mar-2026 04:20:34 UTC] No deadline set or invalid deadline - exiting
+[07-Mar-2026 04:21:26 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[07-Mar-2026 04:21:26 UTC] Deadline from DB: NULL
+[07-Mar-2026 04:21:26 UTC] No deadline set or invalid deadline - exiting
+[07-Mar-2026 04:21:26 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 29
+[07-Mar-2026 04:21:26 UTC] Deadline from DB: NULL
+[07-Mar-2026 04:21:26 UTC] No deadline set or invalid deadline - exiting
+[07-Mar-2026 04:21:28 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 29
+[07-Mar-2026 04:21:28 UTC] Deadline from DB: NULL
+[07-Mar-2026 04:21:28 UTC] No deadline set or invalid deadline - exiting
+[07-Mar-2026 04:24:31 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 28
+[07-Mar-2026 04:24:31 UTC] Deadline from DB: NULL
+[07-Mar-2026 04:24:31 UTC] No deadline set or invalid deadline - exiting
+[07-Mar-2026 04:24:31 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 29
+[07-Mar-2026 04:24:31 UTC] Deadline from DB: NULL
+[07-Mar-2026 04:24:31 UTC] No deadline set or invalid deadline - exiting
+[07-Mar-2026 04:24:33 UTC] === Deadline Checker Called (Route3 Final) === route3_id: 29
+[07-Mar-2026 04:24:33 UTC] Deadline from DB: NULL
+[07-Mar-2026 04:24:33 UTC] No deadline set or invalid deadline - exiting

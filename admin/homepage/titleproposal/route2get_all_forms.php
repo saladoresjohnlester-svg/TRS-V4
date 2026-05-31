@@ -1,0 +1,32 @@
+<?php
+include '../../../connection.php';
+$student_id = $_GET['student_id'] ?? '';
+$route2_id = $_GET['route2_id'] ?? '';
+
+if ($student_id) {
+    $stmt = $conn->prepare("
+        SELECT 
+            pmf.*,
+            a.fullname AS adviser_name,
+            p.fullname AS panel_name
+        FROM proposal_monitoring_form pmf
+        LEFT JOIN adviser a ON pmf.adviser_id = a.adviser_id
+        LEFT JOIN panel p ON pmf.panel_id = p.panel_id
+        WHERE pmf.student_id = ?
+        AND (pmf.route1_id IS NOT NULL OR pmf.route2_id IS NOT NULL)
+        AND pmf.routeNumber IN ('Route 1', 'Route 2')
+        ORDER BY pmf.routeNumber desc, pmf.date_submitted desc
+    ");
+    $stmt->bind_param("s", $student_id);
+    $stmt->execute();
+    $result = $stmt->get_result();
+    $forms = [];
+    while ($row = $result->fetch_assoc()) {
+        $forms[] = $row;
+    }
+    header('Content-Type: application/json');
+    echo json_encode($forms);
+} else {
+    echo json_encode([]);
+}
+?>

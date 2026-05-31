@@ -1,0 +1,376 @@
+@media (max-width: 768px) {
+    .top-bar {
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 10px;
+    }
+
+    .navigation {
+        flex-wrap: wrap;
+        gap: 10px;
+    }
+
+    .main-content {
+        flex-direction: column;
+    }
+
+    .sidebar {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .content {
+        justify-content: center;
+    }
+
+    .file-preview {
+        flex: 1 1 calc(50% - 10px); /* 2 columns on medium screens */
+        max-width: calc(50% - 10px);
+    }
+}
+
+@media (max-width: 480px) {
+    .navigation {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 5px;
+    }
+
+    .file-preview {
+        flex: 1 1 100%; /* 1 column on small screens */
+        max-width: 100%;
+    }
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #003399;
+    color: white;
+    padding: 10px 20px;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+}
+
+.logo-container img {
+    height: 50px;
+    margin-right: 10px;
+}
+
+.logo {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.top-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ccc;
+    margin-top: 10px;
+}
+
+.navigation {
+    display: flex;
+    gap: 15px;
+}
+
+.navigation a {
+    text-decoration: none;
+    font-weight: bold;
+    padding: 25px 20px;
+    color: black;
+    text-align: center;
+    justify-content: center;
+}
+
+#homepage {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    padding: 25px;
+    background-color: #002266;
+}
+
+.user-info {
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+}
+
+.role {
+    margin-right: 5px;
+    font-weight: bold;
+}
+
+.user-name {
+    color: yellow;
+    font-weight: bold;
+}
+
+.main-content {
+    display: flex;
+    flex: 1;
+    padding-top: 10px;
+    gap: 15px;
+}
+
+.sidebar {
+    width: 138px;
+    background-color: #002266;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+}
+
+.menu {
+    flex: 1;
+    text-align: center;
+}
+
+.menu-section {
+    margin-bottom: 20px;
+}
+
+.menu-title {
+    font-weight: bold;
+    background-color: yellow;
+    padding: 5px 10px;
+    margin-bottom: 10px;
+}
+
+.menu ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.menu ul li {
+    padding: 10px 10px;
+    cursor: pointer;
+    color: white;
+}
+
+.menu ul li:hover {
+    background-color: #001a4d;
+}
+
+.logout {
+    position: fixed; /* Keeps it in place */
+    bottom: 0; /* Positions it at the bottom */
+    left: 0; /* Aligns it to the left */
+    text-align: center;
+    padding: 10px;
+    background-color: yellow;
+    color: black;
+    cursor: pointer;
+    font-weight: bold;
+    width: 118px;
+}
+
+
+.logout:hover {
+    background-color: #bbb;
+}
+
+
+.logout a{
+    color: black;
+}
+
+/* Container for file previews */
+.content {
+    flex: 1;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start; /* Align items to the left instead of spreading */
+    align-items: flex-start; /* Prevents excessive spacing */
+    gap: 10px; /* Reduce the gap between items */
+    background-color: #f9f9f9;
+    padding: 10px;
+    box-sizing: border-box;
+    margin-bottom: 200px;
+    
+}
+
+.file-preview {
+    flex: 1 1 calc(20.333% - 20px); /* 3 columns on large screens */
+    max-width: calc(20.333% - 20px);
+    height: 100px;
+    background: rgb(160, 157, 157);
+    text-align: center;
+    border-radius: 15px;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+    border: 1px solid;
+    
+}
+
+
+.file-name {
+    font-size: 12px;
+    font-weight: bold;
+    color: black;
+    margin-top: 5px;
+    word-wrap: break-word;
+    max-width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.view-button {
+    background-color: #003399;
+    color: white;
+    padding: 6px 8px;
+    border: none;
+    cursor: pointer;
+    font-size: 12px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.view-button:hover {
+    background-color: #001a4d;
+}
+
+.file-content {
+    font-size: 18px;
+    line-height: 1.8;
+    color: #333;
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    overflow-y: auto;
+    max-height: 67vh;
+    width: 80%;
+    max-width: 1100px;
+    margin: 20px auto;
+    transition: max-height 0.3s ease, width 0.3s ease;
+}
+
+
+.file-content p {
+    margin-bottom: 15px;
+    font-size: 16px;
+    line-height: 1.6;
+    text-align: justify;
+}
+
+.file-content h1,
+.file-content h2,
+.file-content h3 {
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    font-size: 22px;
+    line-height: 1.4;
+}
+
+.file-content ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+.file-content ul li {
+    margin-bottom: 8px;
+}
+
+.file-content table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.file-content table,
+.file-content th,
+.file-content td {
+    border: 1px solid #ddd;
+}
+
+.file-content th,
+.file-content td {
+    padding: 8px;
+    text-align: auto;
+    font-size: 160px;
+}
+
+.file-content a {
+    color: #003399;
+}
+
+/* Image Styles */
+.file-content img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px 0;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+/* Highlight Styles */
+.highlight {
+    background-color: yellow;
+}
+
+.comments-section {
+    margin-top: 20px;
+    background: #f0f0f0;
+    padding: 15px;
+    border-radius: 10px;
+    max-width: 300px;
+}
+
+.comments-section h3 {
+    margin-top: 0;
+}
+
+.comments-section ul {
+    list-style: none;
+    padding: 0;
+}
+
+.comments-section ul li {
+    margin-bottom: 10px;
+}
+
+.success {
+    color: green;
+    font-weight: bold;
+}
+
+.error {
+    color: red;
+    font-weight: bold;
+}
+
+.vl {
+    border-left: 2px solid;
+    height: 50px;
+    margin-right: 20px;
+}
+
+

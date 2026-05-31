@@ -1,0 +1,874 @@
+[17-Feb-2026 02:46:57 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 19
+[17-Feb-2026 02:46:57 UTC] Deadline from DB: 2026-02-17 11:10:00
+[17-Feb-2026 02:46:57 UTC] PH time NOW: 2026-02-17 10:46:57
+[17-Feb-2026 02:46:57 UTC] Deadline:    2026-02-17 11:10:00
+[17-Feb-2026 02:46:57 UTC] Deadline not yet passed - exiting
+[17-Feb-2026 02:48:14 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 19
+[17-Feb-2026 02:48:14 UTC] Deadline from DB: 2026-02-17 10:48:00
+[17-Feb-2026 02:48:14 UTC] PH time NOW: 2026-02-17 10:48:14
+[17-Feb-2026 02:48:14 UTC] Deadline:    2026-02-17 10:48:00
+[17-Feb-2026 02:48:14 UTC] Deadline HAS PASSED - processing panels...
+[17-Feb-2026 02:48:14 UTC] Non-empty panel IDs: [41]
+[17-Feb-2026 02:48:14 UTC] Checking panel_id: 41
+[17-Feb-2026 02:48:14 UTC] Panel 41 feedback count: 0
+[17-Feb-2026 02:48:14 UTC] Inserting 'No comment' for panel: Dominic Abarquez (ID: 41)
+[17-Feb-2026 02:48:14 UTC] ✅ INSERT SUCCESS for panel_id: 41
+[17-Feb-2026 02:48:14 UTC] === Deadline Checker Completed (Route2 Final) ===
+[17-Feb-2026 02:48:14 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 19
+[17-Feb-2026 02:48:14 UTC] Deadline from DB: 2026-02-17 10:48:00
+[17-Feb-2026 02:48:14 UTC] PH time NOW: 2026-02-17 10:48:14
+[17-Feb-2026 02:48:14 UTC] Deadline:    2026-02-17 10:48:00
+[17-Feb-2026 02:48:14 UTC] Deadline HAS PASSED - processing panels...
+[17-Feb-2026 02:48:14 UTC] Non-empty panel IDs: [41]
+[17-Feb-2026 02:48:14 UTC] Checking panel_id: 41
+[17-Feb-2026 02:48:14 UTC] Panel 41 feedback count: 1
+[17-Feb-2026 02:48:14 UTC] Panel 41 already has feedback - skipping
+[17-Feb-2026 02:48:14 UTC] === Deadline Checker Completed (Route2 Final) ===
+[18-Feb-2026 03:29:32 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 19
+[18-Feb-2026 03:29:32 UTC] Deadline from DB: 2026-02-17 22:49:00
+[18-Feb-2026 03:29:32 UTC] PH time NOW: 2026-02-18 11:29:32
+[18-Feb-2026 03:29:32 UTC] Deadline:    2026-02-17 22:49:00
+[18-Feb-2026 03:29:32 UTC] Deadline HAS PASSED - processing panels...
+[18-Feb-2026 03:29:32 UTC] Non-empty panel IDs: [41]
+[18-Feb-2026 03:29:32 UTC] Checking panel_id: 41
+[18-Feb-2026 03:29:32 UTC] Panel 41 feedback count: 1
+[18-Feb-2026 03:29:32 UTC] Panel 41 already has feedback - skipping
+[18-Feb-2026 03:29:32 UTC] === Deadline Checker Completed (Route2 Final) ===
+[18-Feb-2026 03:40:27 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 19
+[18-Feb-2026 03:40:27 UTC] Deadline from DB: 2026-02-17 22:49:00
+[18-Feb-2026 03:40:27 UTC] PH time NOW: 2026-02-18 11:40:27
+[18-Feb-2026 03:40:27 UTC] Deadline:    2026-02-17 22:49:00
+[18-Feb-2026 03:40:27 UTC] Deadline HAS PASSED - processing panels...
+[18-Feb-2026 03:40:27 UTC] Non-empty panel IDs: [41]
+[18-Feb-2026 03:40:27 UTC] Checking panel_id: 41
+[18-Feb-2026 03:40:27 UTC] Panel 41 feedback count: 1
+[18-Feb-2026 03:40:27 UTC] Panel 41 already has feedback - skipping
+[18-Feb-2026 03:40:27 UTC] === Deadline Checker Completed (Route2 Final) ===
+[18-Feb-2026 03:40:28 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 19
+[18-Feb-2026 03:40:28 UTC] Deadline from DB: 2026-02-17 22:49:00
+[18-Feb-2026 03:40:28 UTC] PH time NOW: 2026-02-18 11:40:28
+[18-Feb-2026 03:40:28 UTC] Deadline:    2026-02-17 22:49:00
+[18-Feb-2026 03:40:28 UTC] Deadline HAS PASSED - processing panels...
+[18-Feb-2026 03:40:28 UTC] Non-empty panel IDs: [41]
+[18-Feb-2026 03:40:28 UTC] Checking panel_id: 41
+[18-Feb-2026 03:40:28 UTC] Panel 41 feedback count: 1
+[18-Feb-2026 03:40:28 UTC] Panel 41 already has feedback - skipping
+[18-Feb-2026 03:40:28 UTC] === Deadline Checker Completed (Route2 Final) ===
+[18-Feb-2026 03:40:31 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 19
+[18-Feb-2026 03:40:31 UTC] Deadline from DB: 2026-02-17 22:49:00
+[18-Feb-2026 03:40:31 UTC] PH time NOW: 2026-02-18 11:40:31
+[18-Feb-2026 03:40:31 UTC] Deadline:    2026-02-17 22:49:00
+[18-Feb-2026 03:40:31 UTC] Deadline HAS PASSED - processing panels...
+[18-Feb-2026 03:40:31 UTC] Non-empty panel IDs: [41]
+[18-Feb-2026 03:40:31 UTC] Checking panel_id: 41
+[18-Feb-2026 03:40:31 UTC] Panel 41 feedback count: 1
+[18-Feb-2026 03:40:31 UTC] Panel 41 already has feedback - skipping
+[18-Feb-2026 03:40:31 UTC] === Deadline Checker Completed (Route2 Final) ===
+[18-Feb-2026 04:09:17 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 19
+[18-Feb-2026 04:09:17 UTC] Deadline from DB: 2026-02-17 22:49:00
+[18-Feb-2026 04:09:17 UTC] PH time NOW: 2026-02-18 12:09:17
+[18-Feb-2026 04:09:17 UTC] Deadline:    2026-02-17 22:49:00
+[18-Feb-2026 04:09:17 UTC] Deadline HAS PASSED - processing panels...
+[18-Feb-2026 04:09:17 UTC] Non-empty panel IDs: [41]
+[18-Feb-2026 04:09:17 UTC] Checking panel_id: 41
+[18-Feb-2026 04:09:17 UTC] Panel 41 feedback count: 1
+[18-Feb-2026 04:09:17 UTC] Panel 41 already has feedback - skipping
+[18-Feb-2026 04:09:17 UTC] === Deadline Checker Completed (Route2 Final) ===
+[18-Feb-2026 06:21:24 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 19
+[18-Feb-2026 06:21:24 UTC] Deadline from DB: 2026-02-17 22:49:00
+[18-Feb-2026 06:21:24 UTC] PH time NOW: 2026-02-18 14:21:24
+[18-Feb-2026 06:21:24 UTC] Deadline:    2026-02-17 22:49:00
+[18-Feb-2026 06:21:24 UTC] Deadline HAS PASSED - processing panels...
+[18-Feb-2026 06:21:24 UTC] Non-empty panel IDs: [41]
+[18-Feb-2026 06:21:24 UTC] Checking panel_id: 41
+[18-Feb-2026 06:21:24 UTC] Panel 41 feedback count: 1
+[18-Feb-2026 06:21:24 UTC] Panel 41 already has feedback - skipping
+[18-Feb-2026 06:21:24 UTC] === Deadline Checker Completed (Route2 Final) ===
+[18-Feb-2026 06:39:24 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 19
+[18-Feb-2026 06:39:24 UTC] Deadline from DB: 2026-02-17 22:49:00
+[18-Feb-2026 06:39:24 UTC] PH time NOW: 2026-02-18 14:39:24
+[18-Feb-2026 06:39:24 UTC] Deadline:    2026-02-17 22:49:00
+[18-Feb-2026 06:39:24 UTC] Deadline HAS PASSED - processing panels...
+[18-Feb-2026 06:39:24 UTC] Non-empty panel IDs: [41]
+[18-Feb-2026 06:39:24 UTC] Checking panel_id: 41
+[18-Feb-2026 06:39:24 UTC] Panel 41 feedback count: 1
+[18-Feb-2026 06:39:24 UTC] Panel 41 already has feedback - skipping
+[18-Feb-2026 06:39:24 UTC] === Deadline Checker Completed (Route2 Final) ===
+[18-Feb-2026 06:39:26 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 19
+[18-Feb-2026 06:39:26 UTC] Deadline from DB: 2026-02-17 22:49:00
+[18-Feb-2026 06:39:26 UTC] PH time NOW: 2026-02-18 14:39:26
+[18-Feb-2026 06:39:26 UTC] Deadline:    2026-02-17 22:49:00
+[18-Feb-2026 06:39:26 UTC] Deadline HAS PASSED - processing panels...
+[18-Feb-2026 06:39:26 UTC] Non-empty panel IDs: [41]
+[18-Feb-2026 06:39:26 UTC] Checking panel_id: 41
+[18-Feb-2026 06:39:26 UTC] Panel 41 feedback count: 1
+[18-Feb-2026 06:39:26 UTC] Panel 41 already has feedback - skipping
+[18-Feb-2026 06:39:26 UTC] === Deadline Checker Completed (Route2 Final) ===
+[20-Feb-2026 02:25:09 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 19
+[20-Feb-2026 02:25:09 UTC] Deadline from DB: 2026-02-20 11:24:00
+[20-Feb-2026 02:25:09 UTC] PH time NOW: 2026-02-20 10:25:09
+[20-Feb-2026 02:25:09 UTC] Deadline:    2026-02-20 11:24:00
+[20-Feb-2026 02:25:09 UTC] Deadline not yet passed - exiting
+[20-Feb-2026 02:25:11 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 19
+[20-Feb-2026 02:25:11 UTC] Deadline from DB: 2026-02-20 11:24:00
+[20-Feb-2026 02:25:11 UTC] PH time NOW: 2026-02-20 10:25:11
+[20-Feb-2026 02:25:11 UTC] Deadline:    2026-02-20 11:24:00
+[20-Feb-2026 02:25:11 UTC] Deadline not yet passed - exiting
+[20-Feb-2026 02:25:15 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 19
+[20-Feb-2026 02:25:15 UTC] Deadline from DB: 2026-02-20 11:24:00
+[20-Feb-2026 02:25:15 UTC] PH time NOW: 2026-02-20 10:25:15
+[20-Feb-2026 02:25:15 UTC] Deadline:    2026-02-20 11:24:00
+[20-Feb-2026 02:25:15 UTC] Deadline not yet passed - exiting
+[20-Feb-2026 02:25:16 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 19
+[20-Feb-2026 02:25:16 UTC] Deadline from DB: 2026-02-20 11:24:00
+[20-Feb-2026 02:25:16 UTC] PH time NOW: 2026-02-20 10:25:16
+[20-Feb-2026 02:25:16 UTC] Deadline:    2026-02-20 11:24:00
+[20-Feb-2026 02:25:16 UTC] Deadline not yet passed - exiting
+[20-Feb-2026 02:25:58 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 19
+[20-Feb-2026 02:25:58 UTC] Deadline from DB: 2026-02-20 11:24:00
+[20-Feb-2026 02:25:58 UTC] PH time NOW: 2026-02-20 10:25:58
+[20-Feb-2026 02:25:58 UTC] Deadline:    2026-02-20 11:24:00
+[20-Feb-2026 02:25:58 UTC] Deadline not yet passed - exiting
+[20-Feb-2026 02:26:01 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 19
+[20-Feb-2026 02:26:01 UTC] Deadline from DB: 2026-02-20 11:24:00
+[20-Feb-2026 02:26:01 UTC] PH time NOW: 2026-02-20 10:26:01
+[20-Feb-2026 02:26:01 UTC] Deadline:    2026-02-20 11:24:00
+[20-Feb-2026 02:26:01 UTC] Deadline not yet passed - exiting
+[20-Feb-2026 02:26:48 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 19
+[20-Feb-2026 02:26:48 UTC] Deadline from DB: 2026-02-20 11:24:00
+[20-Feb-2026 02:26:48 UTC] PH time NOW: 2026-02-20 10:26:48
+[20-Feb-2026 02:26:48 UTC] Deadline:    2026-02-20 11:24:00
+[20-Feb-2026 02:26:48 UTC] Deadline not yet passed - exiting
+[20-Feb-2026 02:26:49 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 19
+[20-Feb-2026 02:26:49 UTC] Deadline from DB: 2026-02-20 11:24:00
+[20-Feb-2026 02:26:49 UTC] PH time NOW: 2026-02-20 10:26:49
+[20-Feb-2026 02:26:49 UTC] Deadline:    2026-02-20 11:24:00
+[20-Feb-2026 02:26:49 UTC] Deadline not yet passed - exiting
+[20-Feb-2026 02:28:23 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 19
+[20-Feb-2026 02:28:23 UTC] Deadline from DB: 2026-02-20 11:24:00
+[20-Feb-2026 02:28:23 UTC] PH time NOW: 2026-02-20 10:28:23
+[20-Feb-2026 02:28:23 UTC] Deadline:    2026-02-20 11:24:00
+[20-Feb-2026 02:28:23 UTC] Deadline not yet passed - exiting
+[20-Feb-2026 02:28:33 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 19
+[20-Feb-2026 02:28:33 UTC] Deadline from DB: 2026-02-20 11:24:00
+[20-Feb-2026 02:28:33 UTC] PH time NOW: 2026-02-20 10:28:33
+[20-Feb-2026 02:28:33 UTC] Deadline:    2026-02-20 11:24:00
+[20-Feb-2026 02:28:33 UTC] Deadline not yet passed - exiting
+[20-Feb-2026 02:41:24 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 21
+[20-Feb-2026 02:41:24 UTC] Deadline from DB: NULL
+[20-Feb-2026 02:41:24 UTC] No deadline set or invalid deadline - exiting
+[20-Feb-2026 02:41:25 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 21
+[20-Feb-2026 02:41:25 UTC] Deadline from DB: NULL
+[20-Feb-2026 02:41:25 UTC] No deadline set or invalid deadline - exiting
+[20-Feb-2026 02:42:04 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 21
+[20-Feb-2026 02:42:04 UTC] Deadline from DB: NULL
+[20-Feb-2026 02:42:04 UTC] No deadline set or invalid deadline - exiting
+[20-Feb-2026 02:42:04 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 21
+[20-Feb-2026 02:42:04 UTC] Deadline from DB: NULL
+[20-Feb-2026 02:42:04 UTC] No deadline set or invalid deadline - exiting
+[20-Feb-2026 02:45:01 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 21
+[20-Feb-2026 02:45:01 UTC] Deadline from DB: NULL
+[20-Feb-2026 02:45:01 UTC] No deadline set or invalid deadline - exiting
+[20-Feb-2026 02:49:50 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 21
+[20-Feb-2026 02:49:50 UTC] Deadline from DB: NULL
+[20-Feb-2026 02:49:50 UTC] No deadline set or invalid deadline - exiting
+[20-Feb-2026 02:49:51 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 21
+[20-Feb-2026 02:49:51 UTC] Deadline from DB: NULL
+[20-Feb-2026 02:49:51 UTC] No deadline set or invalid deadline - exiting
+[20-Feb-2026 02:50:45 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 21
+[20-Feb-2026 02:50:45 UTC] Deadline from DB: NULL
+[20-Feb-2026 02:50:45 UTC] No deadline set or invalid deadline - exiting
+[20-Feb-2026 02:58:25 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 21
+[20-Feb-2026 02:58:25 UTC] Deadline from DB: NULL
+[20-Feb-2026 02:58:25 UTC] No deadline set or invalid deadline - exiting
+[20-Feb-2026 02:58:42 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 21
+[20-Feb-2026 02:58:42 UTC] Deadline from DB: NULL
+[20-Feb-2026 02:58:42 UTC] No deadline set or invalid deadline - exiting
+[23-Feb-2026 03:18:41 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 21
+[23-Feb-2026 03:18:41 UTC] Deadline from DB: NULL
+[23-Feb-2026 03:18:41 UTC] No deadline set or invalid deadline - exiting
+[23-Feb-2026 03:18:43 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 21
+[23-Feb-2026 03:18:43 UTC] Deadline from DB: NULL
+[23-Feb-2026 03:18:43 UTC] No deadline set or invalid deadline - exiting
+[23-Feb-2026 03:19:09 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 21
+[23-Feb-2026 03:19:09 UTC] Deadline from DB: NULL
+[23-Feb-2026 03:19:09 UTC] No deadline set or invalid deadline - exiting
+[23-Feb-2026 03:19:16 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 21
+[23-Feb-2026 03:19:16 UTC] Deadline from DB: NULL
+[23-Feb-2026 03:19:16 UTC] No deadline set or invalid deadline - exiting
+[23-Feb-2026 03:19:29 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 21
+[23-Feb-2026 03:19:29 UTC] Deadline from DB: NULL
+[23-Feb-2026 03:19:29 UTC] No deadline set or invalid deadline - exiting
+[23-Feb-2026 03:19:30 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 21
+[23-Feb-2026 03:19:30 UTC] Deadline from DB: NULL
+[23-Feb-2026 03:19:30 UTC] No deadline set or invalid deadline - exiting
+[23-Feb-2026 03:19:31 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 21
+[23-Feb-2026 03:19:31 UTC] Deadline from DB: NULL
+[23-Feb-2026 03:19:31 UTC] No deadline set or invalid deadline - exiting
+[23-Feb-2026 03:19:54 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 21
+[23-Feb-2026 03:19:54 UTC] Deadline from DB: NULL
+[23-Feb-2026 03:19:54 UTC] No deadline set or invalid deadline - exiting
+[23-Feb-2026 03:19:56 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 21
+[23-Feb-2026 03:19:56 UTC] Deadline from DB: NULL
+[23-Feb-2026 03:19:56 UTC] No deadline set or invalid deadline - exiting
+[23-Feb-2026 03:29:08 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 21
+[23-Feb-2026 03:29:08 UTC] Deadline from DB: NULL
+[23-Feb-2026 03:29:08 UTC] No deadline set or invalid deadline - exiting
+[24-Feb-2026 00:39:35 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 21
+[24-Feb-2026 00:39:35 UTC] Deadline from DB: 2026-02-23 17:07:00
+[24-Feb-2026 00:39:35 UTC] PH time NOW: 2026-02-24 08:39:35
+[24-Feb-2026 00:39:35 UTC] Deadline:    2026-02-23 17:07:00
+[24-Feb-2026 00:39:35 UTC] Deadline HAS PASSED - processing panels...
+[24-Feb-2026 00:39:35 UTC] Non-empty panel IDs: [41,46]
+[24-Feb-2026 00:39:35 UTC] Checking panel_id: 41
+[24-Feb-2026 00:39:35 UTC] Panel 41 feedback count: 0
+[24-Feb-2026 00:39:35 UTC] Inserting 'No comment' for panel: Dominic Abarquez (ID: 41)
+[24-Feb-2026 00:39:35 UTC] ✅ INSERT SUCCESS for panel_id: 41
+[24-Feb-2026 00:39:35 UTC] Checking panel_id: 46
+[24-Feb-2026 00:39:35 UTC] Panel 46 feedback count: 0
+[24-Feb-2026 00:39:35 UTC] Inserting 'No comment' for panel: Kenneth Ian Barrera (ID: 46)
+[24-Feb-2026 00:39:35 UTC] ✅ INSERT SUCCESS for panel_id: 46
+[24-Feb-2026 00:39:35 UTC] === Deadline Checker Completed (Route2 Final) ===
+[24-Feb-2026 00:39:36 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 21
+[24-Feb-2026 00:39:36 UTC] Deadline from DB: 2026-02-23 17:07:00
+[24-Feb-2026 00:39:36 UTC] PH time NOW: 2026-02-24 08:39:36
+[24-Feb-2026 00:39:36 UTC] Deadline:    2026-02-23 17:07:00
+[24-Feb-2026 00:39:36 UTC] Deadline HAS PASSED - processing panels...
+[24-Feb-2026 00:39:36 UTC] Non-empty panel IDs: [41,46]
+[24-Feb-2026 00:39:36 UTC] Checking panel_id: 41
+[24-Feb-2026 00:39:36 UTC] Panel 41 feedback count: 1
+[24-Feb-2026 00:39:36 UTC] Panel 41 already has feedback - skipping
+[24-Feb-2026 00:39:36 UTC] Checking panel_id: 46
+[24-Feb-2026 00:39:36 UTC] Panel 46 feedback count: 1
+[24-Feb-2026 00:39:36 UTC] Panel 46 already has feedback - skipping
+[24-Feb-2026 00:39:36 UTC] === Deadline Checker Completed (Route2 Final) ===
+[24-Feb-2026 00:39:47 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 21
+[24-Feb-2026 00:39:47 UTC] Deadline from DB: 2026-02-23 17:07:00
+[24-Feb-2026 00:39:47 UTC] PH time NOW: 2026-02-24 08:39:47
+[24-Feb-2026 00:39:47 UTC] Deadline:    2026-02-23 17:07:00
+[24-Feb-2026 00:39:47 UTC] Deadline HAS PASSED - processing panels...
+[24-Feb-2026 00:39:47 UTC] Non-empty panel IDs: [41,46]
+[24-Feb-2026 00:39:47 UTC] Checking panel_id: 41
+[24-Feb-2026 00:39:47 UTC] Panel 41 feedback count: 1
+[24-Feb-2026 00:39:47 UTC] Panel 41 already has feedback - skipping
+[24-Feb-2026 00:39:47 UTC] Checking panel_id: 46
+[24-Feb-2026 00:39:47 UTC] Panel 46 feedback count: 1
+[24-Feb-2026 00:39:47 UTC] Panel 46 already has feedback - skipping
+[24-Feb-2026 00:39:47 UTC] === Deadline Checker Completed (Route2 Final) ===
+[24-Feb-2026 00:39:48 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 21
+[24-Feb-2026 00:39:48 UTC] Deadline from DB: 2026-02-23 17:07:00
+[24-Feb-2026 00:39:48 UTC] PH time NOW: 2026-02-24 08:39:48
+[24-Feb-2026 00:39:48 UTC] Deadline:    2026-02-23 17:07:00
+[24-Feb-2026 00:39:48 UTC] Deadline HAS PASSED - processing panels...
+[24-Feb-2026 00:39:48 UTC] Non-empty panel IDs: [41,46]
+[24-Feb-2026 00:39:48 UTC] Checking panel_id: 41
+[24-Feb-2026 00:39:48 UTC] Panel 41 feedback count: 1
+[24-Feb-2026 00:39:48 UTC] Panel 41 already has feedback - skipping
+[24-Feb-2026 00:39:48 UTC] Checking panel_id: 46
+[24-Feb-2026 00:39:48 UTC] Panel 46 feedback count: 1
+[24-Feb-2026 00:39:48 UTC] Panel 46 already has feedback - skipping
+[24-Feb-2026 00:39:48 UTC] === Deadline Checker Completed (Route2 Final) ===
+[25-Feb-2026 02:40:53 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 22
+[25-Feb-2026 02:40:53 UTC] Deadline from DB: NULL
+[25-Feb-2026 02:40:53 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 02:40:55 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 22
+[25-Feb-2026 02:40:55 UTC] Deadline from DB: NULL
+[25-Feb-2026 02:40:55 UTC] No deadline set or invalid deadline - exiting
+[25-Feb-2026 02:59:33 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 22
+[25-Feb-2026 02:59:33 UTC] Deadline from DB: 2026-02-25 11:00:00
+[25-Feb-2026 02:59:33 UTC] PH time NOW: 2026-02-25 10:59:33
+[25-Feb-2026 02:59:33 UTC] Deadline:    2026-02-25 11:00:00
+[25-Feb-2026 02:59:33 UTC] Deadline not yet passed - exiting
+[25-Feb-2026 02:59:34 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 22
+[25-Feb-2026 02:59:34 UTC] Deadline from DB: 2026-02-25 11:00:00
+[25-Feb-2026 02:59:34 UTC] PH time NOW: 2026-02-25 10:59:34
+[25-Feb-2026 02:59:34 UTC] Deadline:    2026-02-25 11:00:00
+[25-Feb-2026 02:59:34 UTC] Deadline not yet passed - exiting
+[25-Feb-2026 03:00:16 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 22
+[25-Feb-2026 03:00:16 UTC] Deadline from DB: 2026-02-25 11:00:00
+[25-Feb-2026 03:00:16 UTC] PH time NOW: 2026-02-25 11:00:16
+[25-Feb-2026 03:00:16 UTC] Deadline:    2026-02-25 11:00:00
+[25-Feb-2026 03:00:16 UTC] Deadline HAS PASSED - processing panels...
+[25-Feb-2026 03:00:16 UTC] Non-empty panel IDs: [41,"46"]
+[25-Feb-2026 03:00:16 UTC] Checking panel_id: 41
+[25-Feb-2026 03:00:16 UTC] Panel 41 feedback count: 0
+[25-Feb-2026 03:00:16 UTC] Inserting 'No comment' for panel: Dominic Abarquez (ID: 41)
+[25-Feb-2026 03:00:16 UTC] ✅ INSERT SUCCESS for panel_id: 41
+[25-Feb-2026 03:00:16 UTC] Checking panel_id: 46
+[25-Feb-2026 03:00:16 UTC] Panel 46 feedback count: 0
+[25-Feb-2026 03:00:16 UTC] Inserting 'No comment' for panel: Kenneth Ian Barrera (ID: 46)
+[25-Feb-2026 03:00:16 UTC] ✅ INSERT SUCCESS for panel_id: 46
+[25-Feb-2026 03:00:16 UTC] === Deadline Checker Completed (Route2 Final) ===
+[25-Feb-2026 03:00:18 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 22
+[25-Feb-2026 03:00:18 UTC] Deadline from DB: 2026-02-25 11:00:00
+[25-Feb-2026 03:00:18 UTC] PH time NOW: 2026-02-25 11:00:18
+[25-Feb-2026 03:00:18 UTC] Deadline:    2026-02-25 11:00:00
+[25-Feb-2026 03:00:18 UTC] Deadline HAS PASSED - processing panels...
+[25-Feb-2026 03:00:18 UTC] Non-empty panel IDs: [41,"46"]
+[25-Feb-2026 03:00:18 UTC] Checking panel_id: 41
+[25-Feb-2026 03:00:18 UTC] Panel 41 feedback count: 1
+[25-Feb-2026 03:00:18 UTC] Panel 41 already has feedback - skipping
+[25-Feb-2026 03:00:18 UTC] Checking panel_id: 46
+[25-Feb-2026 03:00:18 UTC] Panel 46 feedback count: 1
+[25-Feb-2026 03:00:18 UTC] Panel 46 already has feedback - skipping
+[25-Feb-2026 03:00:18 UTC] === Deadline Checker Completed (Route2 Final) ===
+[25-Feb-2026 05:13:28 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 22
+[25-Feb-2026 05:13:28 UTC] Deadline from DB: 2026-02-25 11:00:00
+[25-Feb-2026 05:13:28 UTC] PH time NOW: 2026-02-25 13:13:28
+[25-Feb-2026 05:13:28 UTC] Deadline:    2026-02-25 11:00:00
+[25-Feb-2026 05:13:28 UTC] Deadline HAS PASSED - processing panels...
+[25-Feb-2026 05:13:28 UTC] Non-empty panel IDs: [41,"46"]
+[25-Feb-2026 05:13:28 UTC] Checking panel_id: 41
+[25-Feb-2026 05:13:28 UTC] Panel 41 feedback count: 1
+[25-Feb-2026 05:13:28 UTC] Panel 41 already has feedback - skipping
+[25-Feb-2026 05:13:28 UTC] Checking panel_id: 46
+[25-Feb-2026 05:13:28 UTC] Panel 46 feedback count: 1
+[25-Feb-2026 05:13:28 UTC] Panel 46 already has feedback - skipping
+[25-Feb-2026 05:13:28 UTC] === Deadline Checker Completed (Route2 Final) ===
+[25-Feb-2026 05:32:19 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 22
+[25-Feb-2026 05:32:19 UTC] Deadline from DB: 2026-02-25 11:00:00
+[25-Feb-2026 05:32:19 UTC] PH time NOW: 2026-02-25 13:32:19
+[25-Feb-2026 05:32:19 UTC] Deadline:    2026-02-25 11:00:00
+[25-Feb-2026 05:32:19 UTC] Deadline HAS PASSED - processing panels...
+[25-Feb-2026 05:32:19 UTC] Non-empty panel IDs: [41,"46"]
+[25-Feb-2026 05:32:19 UTC] Checking panel_id: 41
+[25-Feb-2026 05:32:19 UTC] Panel 41 feedback count: 1
+[25-Feb-2026 05:32:19 UTC] Panel 41 already has feedback - skipping
+[25-Feb-2026 05:32:19 UTC] Checking panel_id: 46
+[25-Feb-2026 05:32:19 UTC] Panel 46 feedback count: 1
+[25-Feb-2026 05:32:19 UTC] Panel 46 already has feedback - skipping
+[25-Feb-2026 05:32:19 UTC] === Deadline Checker Completed (Route2 Final) ===
+[25-Feb-2026 07:18:15 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 22
+[25-Feb-2026 07:18:15 UTC] Deadline from DB: 2026-02-25 11:00:00
+[25-Feb-2026 07:18:15 UTC] PH time NOW: 2026-02-25 15:18:15
+[25-Feb-2026 07:18:15 UTC] Deadline:    2026-02-25 11:00:00
+[25-Feb-2026 07:18:15 UTC] Deadline HAS PASSED - processing panels...
+[25-Feb-2026 07:18:15 UTC] Non-empty panel IDs: [41,"46"]
+[25-Feb-2026 07:18:15 UTC] Checking panel_id: 41
+[25-Feb-2026 07:18:15 UTC] Panel 41 feedback count: 1
+[25-Feb-2026 07:18:15 UTC] Panel 41 already has feedback - skipping
+[25-Feb-2026 07:18:15 UTC] Checking panel_id: 46
+[25-Feb-2026 07:18:15 UTC] Panel 46 feedback count: 1
+[25-Feb-2026 07:18:15 UTC] Panel 46 already has feedback - skipping
+[25-Feb-2026 07:18:15 UTC] === Deadline Checker Completed (Route2 Final) ===
+[25-Feb-2026 07:31:34 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 22
+[25-Feb-2026 07:31:34 UTC] Deadline from DB: 2026-02-25 11:00:00
+[25-Feb-2026 07:31:34 UTC] PH time NOW: 2026-02-25 15:31:34
+[25-Feb-2026 07:31:34 UTC] Deadline:    2026-02-25 11:00:00
+[25-Feb-2026 07:31:34 UTC] Deadline HAS PASSED - processing panels...
+[25-Feb-2026 07:31:34 UTC] Non-empty panel IDs: [41,"46"]
+[25-Feb-2026 07:31:34 UTC] Checking panel_id: 41
+[25-Feb-2026 07:31:34 UTC] Panel 41 feedback count: 1
+[25-Feb-2026 07:31:34 UTC] Panel 41 already has feedback - skipping
+[25-Feb-2026 07:31:34 UTC] Checking panel_id: 46
+[25-Feb-2026 07:31:34 UTC] Panel 46 feedback count: 1
+[25-Feb-2026 07:31:34 UTC] Panel 46 already has feedback - skipping
+[25-Feb-2026 07:31:34 UTC] === Deadline Checker Completed (Route2 Final) ===
+[25-Feb-2026 07:31:36 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 22
+[25-Feb-2026 07:31:36 UTC] Deadline from DB: 2026-02-25 11:00:00
+[25-Feb-2026 07:31:36 UTC] PH time NOW: 2026-02-25 15:31:36
+[25-Feb-2026 07:31:36 UTC] Deadline:    2026-02-25 11:00:00
+[25-Feb-2026 07:31:36 UTC] Deadline HAS PASSED - processing panels...
+[25-Feb-2026 07:31:36 UTC] Non-empty panel IDs: [41,"46"]
+[25-Feb-2026 07:31:36 UTC] Checking panel_id: 41
+[25-Feb-2026 07:31:36 UTC] Panel 41 feedback count: 1
+[25-Feb-2026 07:31:36 UTC] Panel 41 already has feedback - skipping
+[25-Feb-2026 07:31:36 UTC] Checking panel_id: 46
+[25-Feb-2026 07:31:36 UTC] Panel 46 feedback count: 1
+[25-Feb-2026 07:31:36 UTC] Panel 46 already has feedback - skipping
+[25-Feb-2026 07:31:36 UTC] === Deadline Checker Completed (Route2 Final) ===
+[25-Feb-2026 07:33:13 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 22
+[25-Feb-2026 07:33:13 UTC] Deadline from DB: 2026-02-25 11:00:00
+[25-Feb-2026 07:33:13 UTC] PH time NOW: 2026-02-25 15:33:13
+[25-Feb-2026 07:33:13 UTC] Deadline:    2026-02-25 11:00:00
+[25-Feb-2026 07:33:13 UTC] Deadline HAS PASSED - processing panels...
+[25-Feb-2026 07:33:13 UTC] Non-empty panel IDs: [41,"46"]
+[25-Feb-2026 07:33:13 UTC] Checking panel_id: 41
+[25-Feb-2026 07:33:13 UTC] Panel 41 feedback count: 1
+[25-Feb-2026 07:33:13 UTC] Panel 41 already has feedback - skipping
+[25-Feb-2026 07:33:13 UTC] Checking panel_id: 46
+[25-Feb-2026 07:33:13 UTC] Panel 46 feedback count: 1
+[25-Feb-2026 07:33:13 UTC] Panel 46 already has feedback - skipping
+[25-Feb-2026 07:33:13 UTC] === Deadline Checker Completed (Route2 Final) ===
+[25-Feb-2026 07:33:16 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 22
+[25-Feb-2026 07:33:16 UTC] Deadline from DB: 2026-02-25 11:00:00
+[25-Feb-2026 07:33:16 UTC] PH time NOW: 2026-02-25 15:33:16
+[25-Feb-2026 07:33:16 UTC] Deadline:    2026-02-25 11:00:00
+[25-Feb-2026 07:33:16 UTC] Deadline HAS PASSED - processing panels...
+[25-Feb-2026 07:33:16 UTC] Non-empty panel IDs: [41,"46"]
+[25-Feb-2026 07:33:16 UTC] Checking panel_id: 41
+[25-Feb-2026 07:33:16 UTC] Panel 41 feedback count: 1
+[25-Feb-2026 07:33:16 UTC] Panel 41 already has feedback - skipping
+[25-Feb-2026 07:33:16 UTC] Checking panel_id: 46
+[25-Feb-2026 07:33:16 UTC] Panel 46 feedback count: 1
+[25-Feb-2026 07:33:16 UTC] Panel 46 already has feedback - skipping
+[25-Feb-2026 07:33:16 UTC] === Deadline Checker Completed (Route2 Final) ===
+[25-Feb-2026 08:24:28 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 22
+[25-Feb-2026 08:24:28 UTC] Deadline from DB: 2026-02-25 11:00:00
+[25-Feb-2026 08:24:28 UTC] PH time NOW: 2026-02-25 16:24:28
+[25-Feb-2026 08:24:28 UTC] Deadline:    2026-02-25 11:00:00
+[25-Feb-2026 08:24:28 UTC] Deadline HAS PASSED - processing panels...
+[25-Feb-2026 08:24:28 UTC] Non-empty panel IDs: [41,"46"]
+[25-Feb-2026 08:24:28 UTC] Checking panel_id: 41
+[25-Feb-2026 08:24:28 UTC] Panel 41 feedback count: 1
+[25-Feb-2026 08:24:28 UTC] Panel 41 already has feedback - skipping
+[25-Feb-2026 08:24:28 UTC] Checking panel_id: 46
+[25-Feb-2026 08:24:28 UTC] Panel 46 feedback count: 1
+[25-Feb-2026 08:24:28 UTC] Panel 46 already has feedback - skipping
+[25-Feb-2026 08:24:28 UTC] === Deadline Checker Completed (Route2 Final) ===
+[25-Feb-2026 08:54:17 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 22
+[25-Feb-2026 08:54:17 UTC] Deadline from DB: 2026-02-25 11:00:00
+[25-Feb-2026 08:54:17 UTC] PH time NOW: 2026-02-25 16:54:17
+[25-Feb-2026 08:54:17 UTC] Deadline:    2026-02-25 11:00:00
+[25-Feb-2026 08:54:17 UTC] Deadline HAS PASSED - processing panels...
+[25-Feb-2026 08:54:17 UTC] Non-empty panel IDs: [41,"46"]
+[25-Feb-2026 08:54:17 UTC] Checking panel_id: 41
+[25-Feb-2026 08:54:17 UTC] Panel 41 feedback count: 1
+[25-Feb-2026 08:54:17 UTC] Panel 41 already has feedback - skipping
+[25-Feb-2026 08:54:17 UTC] Checking panel_id: 46
+[25-Feb-2026 08:54:17 UTC] Panel 46 feedback count: 1
+[25-Feb-2026 08:54:17 UTC] Panel 46 already has feedback - skipping
+[25-Feb-2026 08:54:17 UTC] === Deadline Checker Completed (Route2 Final) ===
+[07-Mar-2026 04:03:14 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 22
+[07-Mar-2026 04:03:14 UTC] Deadline from DB: 2026-02-25 11:00:00
+[07-Mar-2026 04:03:14 UTC] PH time NOW: 2026-03-07 12:03:14
+[07-Mar-2026 04:03:14 UTC] Deadline:    2026-02-25 11:00:00
+[07-Mar-2026 04:03:14 UTC] Deadline HAS PASSED - processing panels...
+[07-Mar-2026 04:03:14 UTC] Non-empty panel IDs: [41,"46"]
+[07-Mar-2026 04:03:14 UTC] Checking panel_id: 41
+[07-Mar-2026 04:03:14 UTC] Panel 41 feedback count: 1
+[07-Mar-2026 04:03:14 UTC] Panel 41 already has feedback - skipping
+[07-Mar-2026 04:03:14 UTC] Checking panel_id: 46
+[07-Mar-2026 04:03:14 UTC] Panel 46 feedback count: 1
+[07-Mar-2026 04:03:14 UTC] Panel 46 already has feedback - skipping
+[07-Mar-2026 04:03:14 UTC] === Deadline Checker Completed (Route2 Final) ===
+[07-Mar-2026 04:08:14 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 22
+[07-Mar-2026 04:08:14 UTC] Deadline from DB: 2026-02-25 11:00:00
+[07-Mar-2026 04:08:14 UTC] PH time NOW: 2026-03-07 12:08:14
+[07-Mar-2026 04:08:14 UTC] Deadline:    2026-02-25 11:00:00
+[07-Mar-2026 04:08:14 UTC] Deadline HAS PASSED - processing panels...
+[07-Mar-2026 04:08:14 UTC] Non-empty panel IDs: [41,"46"]
+[07-Mar-2026 04:08:14 UTC] Checking panel_id: 41
+[07-Mar-2026 04:08:14 UTC] Panel 41 feedback count: 1
+[07-Mar-2026 04:08:14 UTC] Panel 41 already has feedback - skipping
+[07-Mar-2026 04:08:14 UTC] Checking panel_id: 46
+[07-Mar-2026 04:08:14 UTC] Panel 46 feedback count: 1
+[07-Mar-2026 04:08:14 UTC] Panel 46 already has feedback - skipping
+[07-Mar-2026 04:08:14 UTC] === Deadline Checker Completed (Route2 Final) ===
+[07-Mar-2026 04:09:40 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 22
+[07-Mar-2026 04:09:40 UTC] Deadline from DB: 2026-02-25 11:00:00
+[07-Mar-2026 04:09:40 UTC] PH time NOW: 2026-03-07 12:09:40
+[07-Mar-2026 04:09:40 UTC] Deadline:    2026-02-25 11:00:00
+[07-Mar-2026 04:09:40 UTC] Deadline HAS PASSED - processing panels...
+[07-Mar-2026 04:09:40 UTC] Non-empty panel IDs: [41,"46"]
+[07-Mar-2026 04:09:40 UTC] Checking panel_id: 41
+[07-Mar-2026 04:09:40 UTC] Panel 41 feedback count: 1
+[07-Mar-2026 04:09:40 UTC] Panel 41 already has feedback - skipping
+[07-Mar-2026 04:09:40 UTC] Checking panel_id: 46
+[07-Mar-2026 04:09:40 UTC] Panel 46 feedback count: 1
+[07-Mar-2026 04:09:40 UTC] Panel 46 already has feedback - skipping
+[07-Mar-2026 04:09:40 UTC] === Deadline Checker Completed (Route2 Final) ===
+[07-Mar-2026 04:10:56 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 22
+[07-Mar-2026 04:10:56 UTC] Deadline from DB: 2026-02-25 11:00:00
+[07-Mar-2026 04:10:56 UTC] PH time NOW: 2026-03-07 12:10:56
+[07-Mar-2026 04:10:56 UTC] Deadline:    2026-02-25 11:00:00
+[07-Mar-2026 04:10:56 UTC] Deadline HAS PASSED - processing panels...
+[07-Mar-2026 04:10:56 UTC] Non-empty panel IDs: [41,"46"]
+[07-Mar-2026 04:10:56 UTC] Checking panel_id: 41
+[07-Mar-2026 04:10:56 UTC] Panel 41 feedback count: 1
+[07-Mar-2026 04:10:56 UTC] Panel 41 already has feedback - skipping
+[07-Mar-2026 04:10:56 UTC] Checking panel_id: 46
+[07-Mar-2026 04:10:56 UTC] Panel 46 feedback count: 1
+[07-Mar-2026 04:10:56 UTC] Panel 46 already has feedback - skipping
+[07-Mar-2026 04:10:56 UTC] === Deadline Checker Completed (Route2 Final) ===
+[07-Mar-2026 04:11:43 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 22
+[07-Mar-2026 04:11:43 UTC] Deadline from DB: 2026-02-25 11:00:00
+[07-Mar-2026 04:11:43 UTC] PH time NOW: 2026-03-07 12:11:43
+[07-Mar-2026 04:11:43 UTC] Deadline:    2026-02-25 11:00:00
+[07-Mar-2026 04:11:43 UTC] Deadline HAS PASSED - processing panels...
+[07-Mar-2026 04:11:43 UTC] Non-empty panel IDs: [41,"46"]
+[07-Mar-2026 04:11:43 UTC] Checking panel_id: 41
+[07-Mar-2026 04:11:43 UTC] Panel 41 feedback count: 1
+[07-Mar-2026 04:11:43 UTC] Panel 41 already has feedback - skipping
+[07-Mar-2026 04:11:43 UTC] Checking panel_id: 46
+[07-Mar-2026 04:11:43 UTC] Panel 46 feedback count: 1
+[07-Mar-2026 04:11:43 UTC] Panel 46 already has feedback - skipping
+[07-Mar-2026 04:11:43 UTC] === Deadline Checker Completed (Route2 Final) ===
+[07-Mar-2026 04:11:43 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 23
+[07-Mar-2026 04:11:43 UTC] Deadline from DB: NULL
+[07-Mar-2026 04:11:43 UTC] No deadline set or invalid deadline - exiting
+[07-Mar-2026 04:11:44 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 22
+[07-Mar-2026 04:11:44 UTC] Deadline from DB: 2026-02-25 11:00:00
+[07-Mar-2026 04:11:44 UTC] PH time NOW: 2026-03-07 12:11:44
+[07-Mar-2026 04:11:44 UTC] Deadline:    2026-02-25 11:00:00
+[07-Mar-2026 04:11:44 UTC] Deadline HAS PASSED - processing panels...
+[07-Mar-2026 04:11:44 UTC] Non-empty panel IDs: [41,"46"]
+[07-Mar-2026 04:11:44 UTC] Checking panel_id: 41
+[07-Mar-2026 04:11:44 UTC] Panel 41 feedback count: 1
+[07-Mar-2026 04:11:44 UTC] Panel 41 already has feedback - skipping
+[07-Mar-2026 04:11:44 UTC] Checking panel_id: 46
+[07-Mar-2026 04:11:44 UTC] Panel 46 feedback count: 1
+[07-Mar-2026 04:11:44 UTC] Panel 46 already has feedback - skipping
+[07-Mar-2026 04:11:44 UTC] === Deadline Checker Completed (Route2 Final) ===
+[07-Mar-2026 04:11:44 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 23
+[07-Mar-2026 04:11:44 UTC] Deadline from DB: NULL
+[07-Mar-2026 04:11:44 UTC] No deadline set or invalid deadline - exiting
+[07-Mar-2026 04:11:48 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 22
+[07-Mar-2026 04:11:48 UTC] Deadline from DB: 2026-02-25 11:00:00
+[07-Mar-2026 04:11:48 UTC] PH time NOW: 2026-03-07 12:11:48
+[07-Mar-2026 04:11:48 UTC] Deadline:    2026-02-25 11:00:00
+[07-Mar-2026 04:11:48 UTC] Deadline HAS PASSED - processing panels...
+[07-Mar-2026 04:11:48 UTC] Non-empty panel IDs: [41,"46"]
+[07-Mar-2026 04:11:48 UTC] Checking panel_id: 41
+[07-Mar-2026 04:11:48 UTC] Panel 41 feedback count: 1
+[07-Mar-2026 04:11:48 UTC] Panel 41 already has feedback - skipping
+[07-Mar-2026 04:11:48 UTC] Checking panel_id: 46
+[07-Mar-2026 04:11:48 UTC] Panel 46 feedback count: 1
+[07-Mar-2026 04:11:48 UTC] Panel 46 already has feedback - skipping
+[07-Mar-2026 04:11:48 UTC] === Deadline Checker Completed (Route2 Final) ===
+[07-Mar-2026 04:11:48 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 23
+[07-Mar-2026 04:11:48 UTC] Deadline from DB: NULL
+[07-Mar-2026 04:11:48 UTC] No deadline set or invalid deadline - exiting
+[07-Mar-2026 04:11:49 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 22
+[07-Mar-2026 04:11:49 UTC] Deadline from DB: 2026-02-25 11:00:00
+[07-Mar-2026 04:11:49 UTC] PH time NOW: 2026-03-07 12:11:49
+[07-Mar-2026 04:11:49 UTC] Deadline:    2026-02-25 11:00:00
+[07-Mar-2026 04:11:49 UTC] Deadline HAS PASSED - processing panels...
+[07-Mar-2026 04:11:49 UTC] Non-empty panel IDs: [41,"46"]
+[07-Mar-2026 04:11:49 UTC] Checking panel_id: 41
+[07-Mar-2026 04:11:49 UTC] Panel 41 feedback count: 1
+[07-Mar-2026 04:11:49 UTC] Panel 41 already has feedback - skipping
+[07-Mar-2026 04:11:49 UTC] Checking panel_id: 46
+[07-Mar-2026 04:11:49 UTC] Panel 46 feedback count: 1
+[07-Mar-2026 04:11:49 UTC] Panel 46 already has feedback - skipping
+[07-Mar-2026 04:11:49 UTC] === Deadline Checker Completed (Route2 Final) ===
+[07-Mar-2026 04:11:49 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 23
+[07-Mar-2026 04:11:49 UTC] Deadline from DB: NULL
+[07-Mar-2026 04:11:49 UTC] No deadline set or invalid deadline - exiting
+[07-Mar-2026 04:11:51 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 22
+[07-Mar-2026 04:11:51 UTC] Deadline from DB: 2026-02-25 11:00:00
+[07-Mar-2026 04:11:51 UTC] PH time NOW: 2026-03-07 12:11:51
+[07-Mar-2026 04:11:51 UTC] Deadline:    2026-02-25 11:00:00
+[07-Mar-2026 04:11:51 UTC] Deadline HAS PASSED - processing panels...
+[07-Mar-2026 04:11:51 UTC] Non-empty panel IDs: [41,"46"]
+[07-Mar-2026 04:11:51 UTC] Checking panel_id: 41
+[07-Mar-2026 04:11:51 UTC] Panel 41 feedback count: 1
+[07-Mar-2026 04:11:51 UTC] Panel 41 already has feedback - skipping
+[07-Mar-2026 04:11:51 UTC] Checking panel_id: 46
+[07-Mar-2026 04:11:51 UTC] Panel 46 feedback count: 1
+[07-Mar-2026 04:11:51 UTC] Panel 46 already has feedback - skipping
+[07-Mar-2026 04:11:51 UTC] === Deadline Checker Completed (Route2 Final) ===
+[07-Mar-2026 04:11:51 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 23
+[07-Mar-2026 04:11:51 UTC] Deadline from DB: NULL
+[07-Mar-2026 04:11:51 UTC] No deadline set or invalid deadline - exiting
+[07-Mar-2026 04:11:52 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 22
+[07-Mar-2026 04:11:52 UTC] Deadline from DB: 2026-02-25 11:00:00
+[07-Mar-2026 04:11:52 UTC] PH time NOW: 2026-03-07 12:11:52
+[07-Mar-2026 04:11:52 UTC] Deadline:    2026-02-25 11:00:00
+[07-Mar-2026 04:11:52 UTC] Deadline HAS PASSED - processing panels...
+[07-Mar-2026 04:11:52 UTC] Non-empty panel IDs: [41,"46"]
+[07-Mar-2026 04:11:52 UTC] Checking panel_id: 41
+[07-Mar-2026 04:11:52 UTC] Panel 41 feedback count: 1
+[07-Mar-2026 04:11:52 UTC] Panel 41 already has feedback - skipping
+[07-Mar-2026 04:11:52 UTC] Checking panel_id: 46
+[07-Mar-2026 04:11:52 UTC] Panel 46 feedback count: 1
+[07-Mar-2026 04:11:52 UTC] Panel 46 already has feedback - skipping
+[07-Mar-2026 04:11:52 UTC] === Deadline Checker Completed (Route2 Final) ===
+[07-Mar-2026 04:11:52 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 23
+[07-Mar-2026 04:11:52 UTC] Deadline from DB: NULL
+[07-Mar-2026 04:11:52 UTC] No deadline set or invalid deadline - exiting
+[07-Mar-2026 04:11:52 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 22
+[07-Mar-2026 04:11:52 UTC] Deadline from DB: 2026-02-25 11:00:00
+[07-Mar-2026 04:11:52 UTC] PH time NOW: 2026-03-07 12:11:52
+[07-Mar-2026 04:11:52 UTC] Deadline:    2026-02-25 11:00:00
+[07-Mar-2026 04:11:52 UTC] Deadline HAS PASSED - processing panels...
+[07-Mar-2026 04:11:52 UTC] Non-empty panel IDs: [41,"46"]
+[07-Mar-2026 04:11:52 UTC] Checking panel_id: 41
+[07-Mar-2026 04:11:52 UTC] Panel 41 feedback count: 1
+[07-Mar-2026 04:11:52 UTC] Panel 41 already has feedback - skipping
+[07-Mar-2026 04:11:52 UTC] Checking panel_id: 46
+[07-Mar-2026 04:11:52 UTC] Panel 46 feedback count: 1
+[07-Mar-2026 04:11:52 UTC] Panel 46 already has feedback - skipping
+[07-Mar-2026 04:11:52 UTC] === Deadline Checker Completed (Route2 Final) ===
+[07-Mar-2026 04:11:52 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 23
+[07-Mar-2026 04:11:52 UTC] Deadline from DB: NULL
+[07-Mar-2026 04:11:52 UTC] No deadline set or invalid deadline - exiting
+[07-Mar-2026 04:11:52 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 22
+[07-Mar-2026 04:11:52 UTC] Deadline from DB: 2026-02-25 11:00:00
+[07-Mar-2026 04:11:52 UTC] PH time NOW: 2026-03-07 12:11:52
+[07-Mar-2026 04:11:52 UTC] Deadline:    2026-02-25 11:00:00
+[07-Mar-2026 04:11:52 UTC] Deadline HAS PASSED - processing panels...
+[07-Mar-2026 04:11:52 UTC] Non-empty panel IDs: [41,"46"]
+[07-Mar-2026 04:11:52 UTC] Checking panel_id: 41
+[07-Mar-2026 04:11:52 UTC] Panel 41 feedback count: 1
+[07-Mar-2026 04:11:52 UTC] Panel 41 already has feedback - skipping
+[07-Mar-2026 04:11:52 UTC] Checking panel_id: 46
+[07-Mar-2026 04:11:52 UTC] Panel 46 feedback count: 1
+[07-Mar-2026 04:11:52 UTC] Panel 46 already has feedback - skipping
+[07-Mar-2026 04:11:52 UTC] === Deadline Checker Completed (Route2 Final) ===
+[07-Mar-2026 04:11:52 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 23
+[07-Mar-2026 04:11:52 UTC] Deadline from DB: NULL
+[07-Mar-2026 04:11:52 UTC] No deadline set or invalid deadline - exiting
+[07-Mar-2026 04:11:52 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 22
+[07-Mar-2026 04:11:52 UTC] Deadline from DB: 2026-02-25 11:00:00
+[07-Mar-2026 04:11:52 UTC] PH time NOW: 2026-03-07 12:11:52
+[07-Mar-2026 04:11:52 UTC] Deadline:    2026-02-25 11:00:00
+[07-Mar-2026 04:11:52 UTC] Deadline HAS PASSED - processing panels...
+[07-Mar-2026 04:11:52 UTC] Non-empty panel IDs: [41,"46"]
+[07-Mar-2026 04:11:52 UTC] Checking panel_id: 41
+[07-Mar-2026 04:11:52 UTC] Panel 41 feedback count: 1
+[07-Mar-2026 04:11:52 UTC] Panel 41 already has feedback - skipping
+[07-Mar-2026 04:11:52 UTC] Checking panel_id: 46
+[07-Mar-2026 04:11:52 UTC] Panel 46 feedback count: 1
+[07-Mar-2026 04:11:52 UTC] Panel 46 already has feedback - skipping
+[07-Mar-2026 04:11:52 UTC] === Deadline Checker Completed (Route2 Final) ===
+[07-Mar-2026 04:11:52 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 23
+[07-Mar-2026 04:11:52 UTC] Deadline from DB: NULL
+[07-Mar-2026 04:11:52 UTC] No deadline set or invalid deadline - exiting
+[07-Mar-2026 04:11:53 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 22
+[07-Mar-2026 04:11:53 UTC] Deadline from DB: 2026-02-25 11:00:00
+[07-Mar-2026 04:11:53 UTC] PH time NOW: 2026-03-07 12:11:53
+[07-Mar-2026 04:11:53 UTC] Deadline:    2026-02-25 11:00:00
+[07-Mar-2026 04:11:53 UTC] Deadline HAS PASSED - processing panels...
+[07-Mar-2026 04:11:53 UTC] Non-empty panel IDs: [41,"46"]
+[07-Mar-2026 04:11:53 UTC] Checking panel_id: 41
+[07-Mar-2026 04:11:53 UTC] Panel 41 feedback count: 1
+[07-Mar-2026 04:11:53 UTC] Panel 41 already has feedback - skipping
+[07-Mar-2026 04:11:53 UTC] Checking panel_id: 46
+[07-Mar-2026 04:11:53 UTC] Panel 46 feedback count: 1
+[07-Mar-2026 04:11:53 UTC] Panel 46 already has feedback - skipping
+[07-Mar-2026 04:11:53 UTC] === Deadline Checker Completed (Route2 Final) ===
+[07-Mar-2026 04:11:53 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 23
+[07-Mar-2026 04:11:53 UTC] Deadline from DB: NULL
+[07-Mar-2026 04:11:53 UTC] No deadline set or invalid deadline - exiting
+[07-Mar-2026 04:11:53 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 22
+[07-Mar-2026 04:11:53 UTC] Deadline from DB: 2026-02-25 11:00:00
+[07-Mar-2026 04:11:53 UTC] PH time NOW: 2026-03-07 12:11:53
+[07-Mar-2026 04:11:53 UTC] Deadline:    2026-02-25 11:00:00
+[07-Mar-2026 04:11:53 UTC] Deadline HAS PASSED - processing panels...
+[07-Mar-2026 04:11:53 UTC] Non-empty panel IDs: [41,"46"]
+[07-Mar-2026 04:11:53 UTC] Checking panel_id: 41
+[07-Mar-2026 04:11:53 UTC] Panel 41 feedback count: 1
+[07-Mar-2026 04:11:53 UTC] Panel 41 already has feedback - skipping
+[07-Mar-2026 04:11:53 UTC] Checking panel_id: 46
+[07-Mar-2026 04:11:53 UTC] Panel 46 feedback count: 1
+[07-Mar-2026 04:11:53 UTC] Panel 46 already has feedback - skipping
+[07-Mar-2026 04:11:53 UTC] === Deadline Checker Completed (Route2 Final) ===
+[07-Mar-2026 04:11:53 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 23
+[07-Mar-2026 04:11:53 UTC] Deadline from DB: NULL
+[07-Mar-2026 04:11:53 UTC] No deadline set or invalid deadline - exiting
+[07-Mar-2026 04:11:53 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 22
+[07-Mar-2026 04:11:53 UTC] Deadline from DB: 2026-02-25 11:00:00
+[07-Mar-2026 04:11:53 UTC] PH time NOW: 2026-03-07 12:11:53
+[07-Mar-2026 04:11:53 UTC] Deadline:    2026-02-25 11:00:00
+[07-Mar-2026 04:11:53 UTC] Deadline HAS PASSED - processing panels...
+[07-Mar-2026 04:11:53 UTC] Non-empty panel IDs: [41,"46"]
+[07-Mar-2026 04:11:53 UTC] Checking panel_id: 41
+[07-Mar-2026 04:11:53 UTC] Panel 41 feedback count: 1
+[07-Mar-2026 04:11:53 UTC] Panel 41 already has feedback - skipping
+[07-Mar-2026 04:11:53 UTC] Checking panel_id: 46
+[07-Mar-2026 04:11:53 UTC] Panel 46 feedback count: 1
+[07-Mar-2026 04:11:53 UTC] Panel 46 already has feedback - skipping
+[07-Mar-2026 04:11:53 UTC] === Deadline Checker Completed (Route2 Final) ===
+[07-Mar-2026 04:11:53 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 23
+[07-Mar-2026 04:11:53 UTC] Deadline from DB: NULL
+[07-Mar-2026 04:11:53 UTC] No deadline set or invalid deadline - exiting
+[07-Mar-2026 04:11:53 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 22
+[07-Mar-2026 04:11:53 UTC] Deadline from DB: 2026-02-25 11:00:00
+[07-Mar-2026 04:11:53 UTC] PH time NOW: 2026-03-07 12:11:53
+[07-Mar-2026 04:11:53 UTC] Deadline:    2026-02-25 11:00:00
+[07-Mar-2026 04:11:53 UTC] Deadline HAS PASSED - processing panels...
+[07-Mar-2026 04:11:53 UTC] Non-empty panel IDs: [41,"46"]
+[07-Mar-2026 04:11:53 UTC] Checking panel_id: 41
+[07-Mar-2026 04:11:53 UTC] Panel 41 feedback count: 1
+[07-Mar-2026 04:11:53 UTC] Panel 41 already has feedback - skipping
+[07-Mar-2026 04:11:53 UTC] Checking panel_id: 46
+[07-Mar-2026 04:11:53 UTC] Panel 46 feedback count: 1
+[07-Mar-2026 04:11:53 UTC] Panel 46 already has feedback - skipping
+[07-Mar-2026 04:11:53 UTC] === Deadline Checker Completed (Route2 Final) ===
+[07-Mar-2026 04:11:53 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 23
+[07-Mar-2026 04:11:53 UTC] Deadline from DB: NULL
+[07-Mar-2026 04:11:53 UTC] No deadline set or invalid deadline - exiting
+[07-Mar-2026 04:11:53 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 22
+[07-Mar-2026 04:11:53 UTC] Deadline from DB: 2026-02-25 11:00:00
+[07-Mar-2026 04:11:53 UTC] PH time NOW: 2026-03-07 12:11:53
+[07-Mar-2026 04:11:53 UTC] Deadline:    2026-02-25 11:00:00
+[07-Mar-2026 04:11:53 UTC] Deadline HAS PASSED - processing panels...
+[07-Mar-2026 04:11:53 UTC] Non-empty panel IDs: [41,"46"]
+[07-Mar-2026 04:11:53 UTC] Checking panel_id: 41
+[07-Mar-2026 04:11:53 UTC] Panel 41 feedback count: 1
+[07-Mar-2026 04:11:53 UTC] Panel 41 already has feedback - skipping
+[07-Mar-2026 04:11:53 UTC] Checking panel_id: 46
+[07-Mar-2026 04:11:53 UTC] Panel 46 feedback count: 1
+[07-Mar-2026 04:11:53 UTC] Panel 46 already has feedback - skipping
+[07-Mar-2026 04:11:53 UTC] === Deadline Checker Completed (Route2 Final) ===
+[07-Mar-2026 04:11:53 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 23
+[07-Mar-2026 04:11:53 UTC] Deadline from DB: NULL
+[07-Mar-2026 04:11:53 UTC] No deadline set or invalid deadline - exiting
+[07-Mar-2026 04:11:54 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 22
+[07-Mar-2026 04:11:54 UTC] Deadline from DB: 2026-02-25 11:00:00
+[07-Mar-2026 04:11:54 UTC] PH time NOW: 2026-03-07 12:11:54
+[07-Mar-2026 04:11:54 UTC] Deadline:    2026-02-25 11:00:00
+[07-Mar-2026 04:11:54 UTC] Deadline HAS PASSED - processing panels...
+[07-Mar-2026 04:11:54 UTC] Non-empty panel IDs: [41,"46"]
+[07-Mar-2026 04:11:54 UTC] Checking panel_id: 41
+[07-Mar-2026 04:11:54 UTC] Panel 41 feedback count: 1
+[07-Mar-2026 04:11:54 UTC] Panel 41 already has feedback - skipping
+[07-Mar-2026 04:11:54 UTC] Checking panel_id: 46
+[07-Mar-2026 04:11:54 UTC] Panel 46 feedback count: 1
+[07-Mar-2026 04:11:54 UTC] Panel 46 already has feedback - skipping
+[07-Mar-2026 04:11:54 UTC] === Deadline Checker Completed (Route2 Final) ===
+[07-Mar-2026 04:11:54 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 23
+[07-Mar-2026 04:11:54 UTC] Deadline from DB: NULL
+[07-Mar-2026 04:11:54 UTC] No deadline set or invalid deadline - exiting
+[07-Mar-2026 04:11:54 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 22
+[07-Mar-2026 04:11:54 UTC] Deadline from DB: 2026-02-25 11:00:00
+[07-Mar-2026 04:11:54 UTC] PH time NOW: 2026-03-07 12:11:54
+[07-Mar-2026 04:11:54 UTC] Deadline:    2026-02-25 11:00:00
+[07-Mar-2026 04:11:54 UTC] Deadline HAS PASSED - processing panels...
+[07-Mar-2026 04:11:54 UTC] Non-empty panel IDs: [41,"46"]
+[07-Mar-2026 04:11:54 UTC] Checking panel_id: 41
+[07-Mar-2026 04:11:54 UTC] Panel 41 feedback count: 1
+[07-Mar-2026 04:11:54 UTC] Panel 41 already has feedback - skipping
+[07-Mar-2026 04:11:54 UTC] Checking panel_id: 46
+[07-Mar-2026 04:11:54 UTC] Panel 46 feedback count: 1
+[07-Mar-2026 04:11:54 UTC] Panel 46 already has feedback - skipping
+[07-Mar-2026 04:11:54 UTC] === Deadline Checker Completed (Route2 Final) ===
+[07-Mar-2026 04:11:54 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 23
+[07-Mar-2026 04:11:54 UTC] Deadline from DB: NULL
+[07-Mar-2026 04:11:54 UTC] No deadline set or invalid deadline - exiting
+[07-Mar-2026 04:11:54 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 22
+[07-Mar-2026 04:11:54 UTC] Deadline from DB: 2026-02-25 11:00:00
+[07-Mar-2026 04:11:54 UTC] PH time NOW: 2026-03-07 12:11:54
+[07-Mar-2026 04:11:54 UTC] Deadline:    2026-02-25 11:00:00
+[07-Mar-2026 04:11:54 UTC] Deadline HAS PASSED - processing panels...
+[07-Mar-2026 04:11:54 UTC] Non-empty panel IDs: [41,"46"]
+[07-Mar-2026 04:11:54 UTC] Checking panel_id: 41
+[07-Mar-2026 04:11:54 UTC] Panel 41 feedback count: 1
+[07-Mar-2026 04:11:54 UTC] Panel 41 already has feedback - skipping
+[07-Mar-2026 04:11:54 UTC] Checking panel_id: 46
+[07-Mar-2026 04:11:54 UTC] Panel 46 feedback count: 1
+[07-Mar-2026 04:11:54 UTC] Panel 46 already has feedback - skipping
+[07-Mar-2026 04:11:54 UTC] === Deadline Checker Completed (Route2 Final) ===
+[07-Mar-2026 04:11:54 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 23
+[07-Mar-2026 04:11:54 UTC] Deadline from DB: NULL
+[07-Mar-2026 04:11:54 UTC] No deadline set or invalid deadline - exiting
+[07-Mar-2026 04:11:54 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 22
+[07-Mar-2026 04:11:54 UTC] Deadline from DB: 2026-02-25 11:00:00
+[07-Mar-2026 04:11:54 UTC] PH time NOW: 2026-03-07 12:11:54
+[07-Mar-2026 04:11:54 UTC] Deadline:    2026-02-25 11:00:00
+[07-Mar-2026 04:11:54 UTC] Deadline HAS PASSED - processing panels...
+[07-Mar-2026 04:11:54 UTC] Non-empty panel IDs: [41,"46"]
+[07-Mar-2026 04:11:54 UTC] Checking panel_id: 41
+[07-Mar-2026 04:11:54 UTC] Panel 41 feedback count: 1
+[07-Mar-2026 04:11:54 UTC] Panel 41 already has feedback - skipping
+[07-Mar-2026 04:11:54 UTC] Checking panel_id: 46
+[07-Mar-2026 04:11:54 UTC] Panel 46 feedback count: 1
+[07-Mar-2026 04:11:54 UTC] Panel 46 already has feedback - skipping
+[07-Mar-2026 04:11:54 UTC] === Deadline Checker Completed (Route2 Final) ===
+[07-Mar-2026 04:11:54 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 23
+[07-Mar-2026 04:11:54 UTC] Deadline from DB: NULL
+[07-Mar-2026 04:11:54 UTC] No deadline set or invalid deadline - exiting
+[07-Mar-2026 04:15:48 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 22
+[07-Mar-2026 04:15:48 UTC] Deadline from DB: 2026-02-25 11:00:00
+[07-Mar-2026 04:15:48 UTC] PH time NOW: 2026-03-07 12:15:48
+[07-Mar-2026 04:15:48 UTC] Deadline:    2026-02-25 11:00:00
+[07-Mar-2026 04:15:48 UTC] Deadline HAS PASSED - processing panels...
+[07-Mar-2026 04:15:48 UTC] Non-empty panel IDs: [41,"46"]
+[07-Mar-2026 04:15:48 UTC] Checking panel_id: 41
+[07-Mar-2026 04:15:48 UTC] Panel 41 feedback count: 1
+[07-Mar-2026 04:15:48 UTC] Panel 41 already has feedback - skipping
+[07-Mar-2026 04:15:48 UTC] Checking panel_id: 46
+[07-Mar-2026 04:15:48 UTC] Panel 46 feedback count: 1
+[07-Mar-2026 04:15:48 UTC] Panel 46 already has feedback - skipping
+[07-Mar-2026 04:15:48 UTC] === Deadline Checker Completed (Route2 Final) ===
+[07-Mar-2026 04:15:49 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 22
+[07-Mar-2026 04:15:49 UTC] Deadline from DB: 2026-02-25 11:00:00
+[07-Mar-2026 04:15:49 UTC] PH time NOW: 2026-03-07 12:15:49
+[07-Mar-2026 04:15:49 UTC] Deadline:    2026-02-25 11:00:00
+[07-Mar-2026 04:15:49 UTC] Deadline HAS PASSED - processing panels...
+[07-Mar-2026 04:15:49 UTC] Non-empty panel IDs: [41,"46"]
+[07-Mar-2026 04:15:49 UTC] Checking panel_id: 41
+[07-Mar-2026 04:15:49 UTC] Panel 41 feedback count: 1
+[07-Mar-2026 04:15:49 UTC] Panel 41 already has feedback - skipping
+[07-Mar-2026 04:15:49 UTC] Checking panel_id: 46
+[07-Mar-2026 04:15:49 UTC] Panel 46 feedback count: 1
+[07-Mar-2026 04:15:49 UTC] Panel 46 already has feedback - skipping
+[07-Mar-2026 04:15:49 UTC] === Deadline Checker Completed (Route2 Final) ===
+[07-Mar-2026 04:15:50 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 22
+[07-Mar-2026 04:15:50 UTC] Deadline from DB: 2026-02-25 11:00:00
+[07-Mar-2026 04:15:50 UTC] PH time NOW: 2026-03-07 12:15:50
+[07-Mar-2026 04:15:50 UTC] Deadline:    2026-02-25 11:00:00
+[07-Mar-2026 04:15:50 UTC] Deadline HAS PASSED - processing panels...
+[07-Mar-2026 04:15:50 UTC] Non-empty panel IDs: [41,"46"]
+[07-Mar-2026 04:15:50 UTC] Checking panel_id: 41
+[07-Mar-2026 04:15:50 UTC] Panel 41 feedback count: 1
+[07-Mar-2026 04:15:50 UTC] Panel 41 already has feedback - skipping
+[07-Mar-2026 04:15:50 UTC] Checking panel_id: 46
+[07-Mar-2026 04:15:50 UTC] Panel 46 feedback count: 1
+[07-Mar-2026 04:15:50 UTC] Panel 46 already has feedback - skipping
+[07-Mar-2026 04:15:50 UTC] === Deadline Checker Completed (Route2 Final) ===
+[07-Mar-2026 04:15:50 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 22
+[07-Mar-2026 04:15:50 UTC] Deadline from DB: 2026-02-25 11:00:00
+[07-Mar-2026 04:15:50 UTC] PH time NOW: 2026-03-07 12:15:50
+[07-Mar-2026 04:15:50 UTC] Deadline:    2026-02-25 11:00:00
+[07-Mar-2026 04:15:50 UTC] Deadline HAS PASSED - processing panels...
+[07-Mar-2026 04:15:50 UTC] Non-empty panel IDs: [41,"46"]
+[07-Mar-2026 04:15:50 UTC] Checking panel_id: 41
+[07-Mar-2026 04:15:50 UTC] Panel 41 feedback count: 1
+[07-Mar-2026 04:15:50 UTC] Panel 41 already has feedback - skipping
+[07-Mar-2026 04:15:50 UTC] Checking panel_id: 46
+[07-Mar-2026 04:15:50 UTC] Panel 46 feedback count: 1
+[07-Mar-2026 04:15:50 UTC] Panel 46 already has feedback - skipping
+[07-Mar-2026 04:15:50 UTC] === Deadline Checker Completed (Route2 Final) ===
+[07-Mar-2026 04:15:50 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 22
+[07-Mar-2026 04:15:50 UTC] Deadline from DB: 2026-02-25 11:00:00
+[07-Mar-2026 04:15:50 UTC] PH time NOW: 2026-03-07 12:15:50
+[07-Mar-2026 04:15:50 UTC] Deadline:    2026-02-25 11:00:00
+[07-Mar-2026 04:15:50 UTC] Deadline HAS PASSED - processing panels...
+[07-Mar-2026 04:15:50 UTC] Non-empty panel IDs: [41,"46"]
+[07-Mar-2026 04:15:50 UTC] Checking panel_id: 41
+[07-Mar-2026 04:15:50 UTC] Panel 41 feedback count: 1
+[07-Mar-2026 04:15:50 UTC] Panel 41 already has feedback - skipping
+[07-Mar-2026 04:15:50 UTC] Checking panel_id: 46
+[07-Mar-2026 04:15:50 UTC] Panel 46 feedback count: 1
+[07-Mar-2026 04:15:50 UTC] Panel 46 already has feedback - skipping
+[07-Mar-2026 04:15:50 UTC] === Deadline Checker Completed (Route2 Final) ===
+[07-Mar-2026 04:16:28 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 22
+[07-Mar-2026 04:16:28 UTC] Deadline from DB: 2026-02-25 11:00:00
+[07-Mar-2026 04:16:28 UTC] PH time NOW: 2026-03-07 12:16:28
+[07-Mar-2026 04:16:28 UTC] Deadline:    2026-02-25 11:00:00
+[07-Mar-2026 04:16:28 UTC] Deadline HAS PASSED - processing panels...
+[07-Mar-2026 04:16:28 UTC] Non-empty panel IDs: [41,"46"]
+[07-Mar-2026 04:16:28 UTC] Checking panel_id: 41
+[07-Mar-2026 04:16:28 UTC] Panel 41 feedback count: 1
+[07-Mar-2026 04:16:28 UTC] Panel 41 already has feedback - skipping
+[07-Mar-2026 04:16:28 UTC] Checking panel_id: 46
+[07-Mar-2026 04:16:28 UTC] Panel 46 feedback count: 1
+[07-Mar-2026 04:16:28 UTC] Panel 46 already has feedback - skipping
+[07-Mar-2026 04:16:28 UTC] === Deadline Checker Completed (Route2 Final) ===
+[07-Mar-2026 04:16:28 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 23
+[07-Mar-2026 04:16:28 UTC] Deadline from DB: NULL
+[07-Mar-2026 04:16:28 UTC] No deadline set or invalid deadline - exiting
+[07-Mar-2026 04:16:29 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 23
+[07-Mar-2026 04:16:29 UTC] Deadline from DB: NULL
+[07-Mar-2026 04:16:29 UTC] No deadline set or invalid deadline - exiting
+[07-Mar-2026 04:16:42 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 22
+[07-Mar-2026 04:16:42 UTC] Deadline from DB: 2026-02-25 11:00:00
+[07-Mar-2026 04:16:42 UTC] PH time NOW: 2026-03-07 12:16:42
+[07-Mar-2026 04:16:42 UTC] Deadline:    2026-02-25 11:00:00
+[07-Mar-2026 04:16:42 UTC] Deadline HAS PASSED - processing panels...
+[07-Mar-2026 04:16:42 UTC] Non-empty panel IDs: [41,"46"]
+[07-Mar-2026 04:16:42 UTC] Checking panel_id: 41
+[07-Mar-2026 04:16:42 UTC] Panel 41 feedback count: 1
+[07-Mar-2026 04:16:42 UTC] Panel 41 already has feedback - skipping
+[07-Mar-2026 04:16:42 UTC] Checking panel_id: 46
+[07-Mar-2026 04:16:42 UTC] Panel 46 feedback count: 1
+[07-Mar-2026 04:16:42 UTC] Panel 46 already has feedback - skipping
+[07-Mar-2026 04:16:42 UTC] === Deadline Checker Completed (Route2 Final) ===
+[07-Mar-2026 04:16:42 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 23
+[07-Mar-2026 04:16:42 UTC] Deadline from DB: NULL
+[07-Mar-2026 04:16:42 UTC] No deadline set or invalid deadline - exiting
+[07-Mar-2026 04:16:43 UTC] === Deadline Checker Called (Route2 Final) === route2_id: 23
+[07-Mar-2026 04:16:43 UTC] Deadline from DB: NULL
+[07-Mar-2026 04:16:43 UTC] No deadline set or invalid deadline - exiting
